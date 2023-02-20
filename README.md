@@ -1,5 +1,11 @@
+---
+title: README Components
+description: A compilation of components for your README.md
+image: https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RC.png
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RC.png" alt="README Components">
+  <img src={image} alt="README Components">
   A compilation of components for your README.md
 </p>
 
@@ -10,7 +16,7 @@ Is really easy to use, isn't it?
 
 Change the <code>?usermane=</code> value for your GitHub's username.
 
-Remember: You can delete the brackets [] in the URL for that it works.
+**Remember:** You can delete the brackets [USERNAME] in the URL for that it works.
 
 ```Markdown
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=[USERNAME])](https://github.com/rahulkarda/readme-components)
