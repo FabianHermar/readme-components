@@ -1,7 +1,7 @@
 # REFERENCES
 **This file contains the authors of the components that I used in this repository.**
 
-### Profile Views
+### 👀 Profile Views
 
 | Author | Repository |
 |--------|------------|
