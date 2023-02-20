@@ -1,7 +1,7 @@
 ---
 title: README Components
 description: A compilation of components for your README.md
-image: <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RCL.png"> 
+image: https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RCL.png"
 ---
 
 <p align="center">
