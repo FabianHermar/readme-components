@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/FabianHMzz/readme-components/main/publi
 ---
 
 <p align="center">
-  <img src={image} alt="README Components">
+  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RC.png" alt="README Components">
   A compilation of components for your README.md
 </p>
 
