@@ -11,7 +11,7 @@ Only copy and paste the code of the component you want to use in your README.md 
 
 Is really easy to use, isn't it?
 
-Change the <code>?usermane=</code> value for your GitHub's username.
+Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's username.
 
 ### ⚠**Remember**⚠ 
 
@@ -82,7 +82,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 ![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge)
 
 ```Markdown
-[![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
+![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
 ```
 
 ## GitHub Stars
