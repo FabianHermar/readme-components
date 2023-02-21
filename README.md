@@ -3,7 +3,7 @@
   A compilation of components for your README.md
 </p>
 
-## How to use
+# How to use
 Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the usermane value for your GutHub's username.
 
 Is really easy to use, isn't it?
@@ -17,9 +17,9 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 
 ```
 
-## Components
+# Components
 
-### Profile Views
+## Profile Views
 
 <a>
     <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge">
@@ -59,7 +59,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 
 >NOTE: HEX colors should be used without the `#` symbol.
 
-### Styles
+## Styles
 
 | style | demo |
 | ----- | ---- |
