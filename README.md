@@ -11,7 +11,7 @@ Only copy and paste the code of the component you want to use in your README.md 
 
 Is really easy to use, isn't it?
 
-Change the <code>?usermane=</code> value for your GitHub's username.
+Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's username.
 
 ### ⚠**Remember**⚠ 
 
