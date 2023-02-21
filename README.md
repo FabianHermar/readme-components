@@ -29,7 +29,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 </a>
 
 ```Markdown
-![Profile Views](https://komarev.com/ghpvc username=[USERNAME])
+![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=[COLOR]&style=[STYLE]])
 ```
 
 **Change Color**
