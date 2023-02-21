@@ -82,7 +82,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge)
 
 ```Markdown
-[![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
+![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
 ```
 
 ## GitHub Stars
