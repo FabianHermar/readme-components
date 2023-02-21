@@ -21,6 +21,29 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 - You can use any valid logo for custom your badges.
 - If you use the **style**, **color** and **logo** remember delete the brackets and use valid style, color and logo.
 
+## Categories
+
+**You can browse the different categories so you can find the badges you need faster**
+
+<details open> 
+  <summary><h2>🔷 Statics</h2></summary>
+
+
+</details>
+
+<details open> 
+  <summary><h2>💫 Dynamics</h2></summary>
+  
+  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#profile-views)
+  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#github-followers)
+  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#github-stars)
+  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#twitter-followers)
+  
+</details>
+
+<!-- Components start -->
+
+
 
 # Components
 
