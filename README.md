@@ -26,7 +26,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 </a>
 
 ```Markdown
-    ![Profile Views](https://komarev.com/ghpvc username=[USERNAME])
+![Profile Views](https://komarev.com/ghpvc username=[USERNAME])
 ```
 
 **Change Color**
@@ -48,13 +48,13 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 **Named color**
 
 ```Markdown
-    ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
 ```
 
 **Hex color**
 
 ```Markdown
-    ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
+![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
 ```
 
 >NOTE: HEX colors should be used without the `#` symbol.
@@ -69,5 +69,29 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 | `for-the-badge` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge) |
 
 ```Markdown
-    ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=flat-square)
+```
+
+## GitHub Followers
+
+[![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge)
+
+```Markdown
+[![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=GitHub&style=for-the-badge)
+```
+
+## GitHub Stars
+
+[![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge)
+
+```Markdown
+[![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=GitHub&style=for-the-badge)
+```
+
+## Twitter Followers
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Followers&logo=Twitter&style=for-the-badge)
+
+```Markdown
+[![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=Twitter&style=for-the-badge)
 ```
