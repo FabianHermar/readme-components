@@ -90,7 +90,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 
 ## Twitter Followers
 
-![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) ![Generic badge](https://img.shields.io/badge/Works?-no-red.svg)
 
 ```Markdown
 ![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=Twitter&style=for-the-badge)
