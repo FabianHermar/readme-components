@@ -82,16 +82,16 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 
 ## GitHub Stars
 
-[![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge)
+![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge)
 
 ```Markdown
-[![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=GitHub&style=for-the-badge)
+![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=GitHub&style=for-the-badge)
 ```
 
 ## Twitter Followers
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Followers&logo=Twitter&style=for-the-badge)
+![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Followers&logo=Twitter&style=for-the-badge)
 
 ```Markdown
-[![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=Twitter&style=for-the-badge)
+![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=Twitter&style=for-the-badge)
 ```
