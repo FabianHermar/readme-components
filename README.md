@@ -74,7 +74,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 
 ## GitHub Followers
 
-[![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge)
+![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge)
 
 ```Markdown
 [![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=GitHub&style=for-the-badge)
