@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RC.png" alt="README Components">
-  A compilation of components for your README.md
+  𝗔 𝗰𝗼𝗺𝗽𝗶𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝘆𝗼𝘂𝗿 𝗥𝗘𝗔𝗗𝗠𝗘.𝗺𝗱
 </p>
+
+![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=astro&logoColor=white&style=for-the-badge)
 
 # How to use
 Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the usermane value for your GutHub's username.
@@ -90,7 +93,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 
 ## Twitter Followers
 
-![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) [![Maintenance](https://img.shields.io/badge/Works?-no-red.svg)](https://img.shields.io/)
+![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) ![Works?](https://img.shields.io/badge/Works%3F-no-red?style=for-the-badge)
 
 ```Markdown
 ![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=Twitter&style=for-the-badge)
