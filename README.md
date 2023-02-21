@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RC.png" alt="README Components">
-  𝗔 𝗰𝗼𝗺𝗽𝗶𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝘆𝗼𝘂𝗿 𝗥𝗘𝗔𝗗𝗠𝗘.𝗺𝗱
 </p>
+<h2 align="center">🎉 𝗔 𝗮𝘄𝗲𝘀𝗼𝗺𝗲 𝗰𝗼𝗺𝗽𝗶𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝘆𝗼𝘂𝗿 𝗿𝗲𝗮𝗱𝗺𝗲.𝗺𝗱 🎉</h2>
 
 ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=astro&logoColor=white&style=for-the-badge)
@@ -43,11 +43,13 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 <!-- Components start -->
 
-
+---
+---
+---
 
 # Components
 
-## Profile Views
+### Profile Views
 
 <a>
     <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge">
@@ -100,7 +102,9 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
 ```
 
-## GitHub Followers
+---
+
+### GitHub Followers
 
 ![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge)
 
@@ -108,7 +112,9 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
 ```
 
-## GitHub Stars
+---
+
+### GitHub Stars
 
 ![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge)
 
@@ -116,7 +122,9 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=[VALID_LOGO]&style=[STYLE])
 ```
 
-## Twitter Followers
+---
+
+### Twitter Followers
 
 ![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) ![Works?](https://img.shields.io/badge/Works%3F-no-red?style=for-the-badge)
 
