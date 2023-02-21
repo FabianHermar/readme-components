@@ -26,7 +26,7 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 </a>
 
 ```Markdown
-    ![](https://komarev.com/ghpvc username=[USERNAME])
+    ![Profile Views](https://komarev.com/ghpvc username=[USERNAME])
 ```
 
 **Change Color**
@@ -48,13 +48,13 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 **Named color**
 
 ```Markdown
-    ![](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
+    ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
 ```
 
 **Hex color**
 
 ```Markdown
-    ![](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
+    ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
 ```
 
 >NOTE: HEX colors should be used without the `#` symbol.
@@ -69,5 +69,5 @@ Change the <code>?usermane=</code> value for your GitHub's username.
 | `for-the-badge` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge) |
 
 ```Markdown
-    ![](https://komarev.com/ghpvc/?username=[USERNAME]&style=flat-square)
+    ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=flat-square)
 ```
