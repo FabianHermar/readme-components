@@ -14,7 +14,7 @@
   text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: textclip 3s linear infinite;
+  animation: textclip 6s linear infinite;
 }
 
 @keyframes textclip {
