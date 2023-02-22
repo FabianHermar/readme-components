@@ -34,6 +34,16 @@ const Header = () => {
                         <span className='relative group-hover:text-gray-900 ease-in duration-200'>Github</span>
                       </a>
                     </li>
+                    <li>
+                      <a href="https://fabianhmz.dev" target="_blank" rel="noopener noreferrer" className='group relative before:absolute before:inset-x-0 before:bottom-0 hover:underline hover:decoration-purple-300 hover:decoration-4 before:h-2 before:origin-right before:scale-x-0 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100'>
+                        <span className='relative group-hover:text-gray-900 ease-in duration-200'>Web Personal</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://visual-tradex.com" target="_blank" rel="noopener noreferrer" className='group relative before:absolute before:inset-x-0 before:bottom-0 hover:underline hover:decoration-purple-300 hover:decoration-4 before:h-2 before:origin-right before:scale-x-0 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100'>
+                        <span className='relative group-hover:text-gray-900 ease-in duration-200'>Web Empresarial</span>
+                      </a>
+                    </li>
                   </ul>
                 </div>
               </div>
