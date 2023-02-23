@@ -36,18 +36,18 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 <details open> 
   <summary><h2>💫 Dynamics</h2></summary>
   
-  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#profile-views)
-  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#github-followers)
-  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#github-stars)
-  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#twitter-followers)
+  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#profile-views-)
+  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#github-followers-)
+  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#github-stars-)
+  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#twitter-followers-)
   
 </details>
 
 <details open> 
   <summary><h2>🎨 Style</h2></summary>
   
-  - [🖌 Color](https://github.com/FabianHMzz/readme-components/blob/main/README.md#Color)
-  - [🖼 Type](https://github.com/FabianHMzz/readme-components/blob/main/README.md#Type)
+  - [🖌 Color](https://github.com/FabianHMzz/readme-components/blob/main/README.md#Color-)
+  - [🖼 Type](https://github.com/FabianHMzz/readme-components/blob/main/README.md#Type-)
   
 </details>
 
