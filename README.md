@@ -41,6 +41,12 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
   
 </details>
 
+<details open> 
+  <summary><h2>🎨 Styles </h2></summary>
+
+
+</details>
+
 <!-- Components start -->
 
 ---
@@ -56,7 +62,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge"> | `![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=[COLOR]&style=[STYLE]`|
 
 
-**Change Color**
+# Styles
 
 | color | demo |
 | ----- | ---- |
@@ -86,7 +92,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 >NOTE: HEX colors should be used without the `#` symbol.
 
-### Styles
+**Styles**
 
 | style | demo |
 | ----- | ---- |
