@@ -26,7 +26,9 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 **You can browse the different categories so you can find the badges you need faster**
 
 <details open> 
-  <summary><h2>🔷 Statics</h2></summary>
+  <summary><h2>🔷 Statics</h2>
+  
+  </summary>
 
 
 </details>
@@ -42,9 +44,11 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 </details>
 
 <details open> 
-  <summary><h2>🎨 Styles </h2></summary>
-
-
+  <summary><h2>🎨 Style</h2></summary>
+  
+  - [🖌 Color](https://github.com/FabianHMzz/readme-components/blob/main/README.md#Color)
+  - [🖼 Type](https://github.com/FabianHMzz/readme-components/blob/main/README.md#Type)
+  
 </details>
 
 <!-- Components start -->
@@ -61,6 +65,31 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 |-------|-----|
 | <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge"> | `![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=[COLOR]&style=[STYLE]`|
 
+---
+
+### GitHub Followers
+
+| Badge | URL |
+|-------|-----|
+| ![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge) | `![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])` |
+
+---
+
+### GitHub Stars
+
+| Badge | URL |
+|-------|-----|
+| ![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge) | `![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=[VALID_LOGO]&style=[STYLE])`|
+
+---
+
+### Twitter Followers
+
+| Badge | URL |
+|-------|-----|
+| ![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) | `![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])`|
+
+---
 
 # Styles
 
@@ -92,7 +121,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 >NOTE: HEX colors should be used without the `#` symbol.
 
-**Styles**
+# Type
 
 | style | demo |
 | ----- | ---- |
@@ -104,27 +133,3 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ```Markdown
 ![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
 ```
-
----
-
-### GitHub Followers
-
-| Badge | URL |
-|-------|-----|
-| ![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge) | `![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])` |
-
----
-
-### GitHub Stars
-
-| Badge | URL |
-|-------|-----|
-| ![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge) | `![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=[VALID_LOGO]&style=[STYLE])`|
-
----
-
-### Twitter Followers
-
-| Badge | URL |
-|-------|-----|
-| ![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) | `![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])`|
