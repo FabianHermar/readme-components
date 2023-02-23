@@ -22,3 +22,20 @@
     background-position: 200% center;
   }
 }
+
+.bg-image {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  -webkit-filter: blur(20px);
+  filter: blur(20px);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  user-select: none;
+  opacity: 0.5;
+}
