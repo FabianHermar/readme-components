@@ -1,0 +1,38 @@
+[
+    {
+        "id": "st1",
+        "title": "Google Play Store",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"
+    },
+    {
+        "id": "st2",
+        "title": "App Store",
+        "badge": "",
+        "url": "https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"
+    },
+    {
+        "id": "st3",
+        "title": "Windows Store",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Windows_Store-0078D7?style=for-the-badge&logo=windows&logoColor=white"
+    },
+    {
+        "id": "st4",
+        "title": "F-Droid",
+        "badge": "",
+        "url": "https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white"
+    },
+    {
+        "id": "st5",
+        "title": "Gumroad",
+        "badge": "",
+        "url": "https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white"
+    },
+    {
+        "id": "st6",
+        "title": "Huawei AppGallery",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Huawei_AppGallery-A81D33?style=for-the-badge&logo=huawei&logoColor=white"
+    }
+]
