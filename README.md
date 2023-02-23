@@ -59,7 +59,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 # Components
 
-### Profile Views
+### Profile Views 👀
 
 | Badge | URL |
 |-------|-----|
@@ -67,7 +67,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### GitHub Followers
+### GitHub Followers 👨‍💻
 
 | Badge | URL |
 |-------|-----|
@@ -75,7 +75,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### GitHub Stars
+### GitHub Stars ⭐
 
 | Badge | URL |
 |-------|-----|
@@ -83,7 +83,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### Twitter Followers
+### Twitter Followers 🕊
 
 | Badge | URL |
 |-------|-----|
@@ -91,7 +91,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-# Color
+# Color 🎨
 
 | color | demo |
 | ----- | ---- |
@@ -121,7 +121,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 >NOTE: HEX colors should be used without the `#` symbol.
 
-# Type
+# Type 🖼
 
 | style | demo |
 | ----- | ---- |
