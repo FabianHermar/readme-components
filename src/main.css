@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .animate-charcter
 {
   text-transform: uppercase;
@@ -14,7 +18,7 @@
   text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: textclip 6s linear infinite;
+  animation: textclip 17s linear infinite;
 }
 
 @keyframes textclip {
@@ -30,12 +34,10 @@
   z-index: -1;
   width: 100%;
   height: 100%;
-  -webkit-filter: blur(20px);
-  filter: blur(20px);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   user-select: none;
-  opacity: 0.5;
+  opacity: 0.7;
 }
