@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/public/RC.png" alt="README Components">
+  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/RC.png" alt="README Components">
 </p>
 <h2 align="center">🎉 𝗔 𝗮𝘄𝗲𝘀𝗼𝗺𝗲 𝗰𝗼𝗺𝗽𝗶𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝘆𝗼𝘂𝗿 𝗿𝗲𝗮𝗱𝗺𝗲.𝗺𝗱 🎉</h2>
 
