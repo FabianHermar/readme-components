@@ -1,3 +1,5 @@
+import RCL from '../assets/RCL.webp'
+
 const Header = () => {
   return (
     <header>
@@ -6,15 +8,15 @@ const Header = () => {
           <div className='flex items-center justify-between'>
             <div className='relative z-20'>
               <a href='#' className='flex items-center justify-center'>
-                <img src='../assets/RCL.webp' alt='README Components' className='w-10 md:w-12 mr-3' />
+                <img src={RCL} alt='README Components' className='w-10 md:w-12 mr-3' />
                 <p className='font-sans font-bold drop-shadow'>RC.md</p>
               </a>
             </div>
             <div className='flex items-center justify-end lg:border-l-0'>
               <input type='checkbox' name='VTX' id='VTX' className='peer' hidden />
               <label htmlFor='VTX' className='peer-checked:VTX block relative z-20 p-6 -mr-6 cursor-pointer lg:hidden'>
-                <div aria-hidden='true' className='m-auto h-0.5 w-6 rounded bg-black transition duration-300'>...</div>
-                <div aria-hidden='true' className='m-auto mt-2 h-0.5 w-6 rounded bg-black transition duration-300'>...</div>
+                <div aria-hidden='true' className='m-auto h-0.5 w-6 rounded bg-black transition duration-300'></div>
+                <div aria-hidden='true' className='m-auto mt-2 h-0.5 w-6 rounded bg-black transition duration-300'></div>
               </label>
               <div className='peer-checked:translate-x-0 fixed inset-0 w-[calc(100%-4.5rem)] translate-x-[-100%] bg-white lg:bg-transparent shadow-x transition duration-300 lg:shadow-none lg:border-l-0 lg:w-auto lg:static lg:translate-x-0'>
                 <div className='flex flex-col h-full lg:flex-row jusfify-between lg:items-center'>
@@ -38,7 +40,7 @@ const Header = () => {
                       <button className='relative flex justify-center items-center transition ease-out duration-100 focus:outline-none text-black rounded focus:ring ring-gray-200 group'>
                         <p className='text-black lg:text-white'>Más Opciones</p>
                         <span className='pl-1'>
-                          <svg className='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='https://www.w3.org/2000/svg'><path strokeLinecap='round' strokeLinejoin='round' strokeWidth='2' d='M19 9l-7 7-7-7'>...</path></svg>
+                          <svg className='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='https://www.w3.org/2000/svg'><path strokeLinecap='round' strokeLinejoin='round' strokeWidth='2' d='M19 9l-7 7-7-7'></path></svg>
                         </span>
                         <div className='absolute hidden top-full min-w-full w-max bg-white shadow-md mt-1 rounded group-focus:block'>
                           <ul className='text-left border rounded'>
