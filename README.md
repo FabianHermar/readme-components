@@ -41,6 +41,15 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
   
 </details>
 
+<details open> 
+  <summary><h2>💫 Dynamics</h2></summary>
+  
+  - [🎨 Color and Type](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
+  
+</details>
+
+
+
 <!-- Components start -->
 
 ---
