@@ -19,7 +19,7 @@ Solo tienes que copiar y pegar la URL del componente que quieras usar en tu arch
 
 Es realmente fácil de usar ¿no?
 
-Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> for tu usuario de GitHub.
+Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de GitHub.
 
 ### ⚠**Recuerda**⚠ 
 
