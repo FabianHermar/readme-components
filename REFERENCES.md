@@ -11,4 +11,4 @@
 
 | Author | Repository |
 |--------|------------|
-| Shields | <a href="https://github.com/badges/shields">View Project</a> |
+| Badges | <a href="https://github.com/badges/shields">View Project</a> |
