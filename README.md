@@ -27,7 +27,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 - You can use any valid logo for custom your badges.
 - If you use the **style**, **color** and **logo** remember delete the brackets and use valid style, color and logo.
 
-## Categories
+## 🏷 Categories
 
 **You can browse the different categories so you can find the badges you need faster**
 
