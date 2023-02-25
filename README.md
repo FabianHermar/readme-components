@@ -122,3 +122,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | Badge | URL |
 |-------|-----|
 | ![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) | `![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])`|
+
+---
+
+# Styles
+
