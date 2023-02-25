@@ -3,7 +3,7 @@
   <h2>Una asombrosa recopilación de componentes para tus archivos README.md <br /> Insignias, estadísticas, tecnologías, etc., todo en un solo repositorio ⭐</h2>
   
   ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
-  ![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=astro&logoColor=white&style=for-the-badge)
+  ![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=react&logoColor=white&style=for-the-badge)
   ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
   ![Deploy](https://vercelbadge.vercel.app/api/fabianhmzz/readme-components?color=black&style=for-the-badge&logo=vercel)
  
