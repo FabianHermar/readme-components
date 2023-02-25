@@ -6,9 +6,10 @@
   ![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=astro&logoColor=white&style=for-the-badge)
   ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
   ![Deploy](https://vercelbadge.vercel.app/api/fabianhmzz/readme-components?color=black&style=for-the-badge&logo=vercel)
-  
- ### <a href="https://readme-components.wiki/">👉 README Components Website 👈</a>
- #### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README.md">🌎 Archivo README - Versión Inglés 🌎</a>
+ 
+  ### <a href="https://github.com/FabianHMzz/readme-components/blob/main/CONTRIBUTING_es.md">👨‍💻 Como contribuir 👨‍💻</a>
+  ### <a href="https://readme-components.wiki/">👉 README Components Website 👈</a>
+  #### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README.md">🌎 Archivo README - Versión Inglés 🌎</a>
 
   <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/readme.webp" alt="README Components">
  </div>
