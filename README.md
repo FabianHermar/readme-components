@@ -50,7 +50,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 <details open> 
   <summary><h2>🖌 Types</h2></summary>
   
-  - [🎨 Color and Type](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
+  - [🎨 Color and Types](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
   
 </details>
 
