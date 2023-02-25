@@ -1,6 +1,7 @@
 <div align="center">
   <h1>🖌 README Components 🎨</h1>
   <h2>A awesome compilation of components for your readme.md.<br /> Badges, stats, technologies, etc., all in a only repo ⭐</h2>
+
   
   ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
   ![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=astro&logoColor=white&style=for-the-badge)
