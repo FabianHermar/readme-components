@@ -23,7 +23,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> for tu usuario de Gi
 ### ⚠**Recuerda**⚠ 
 
 - Elimina los corchetes **[USERNAME]** de la URL para que funcione.
-- Puedes usar estos estilos para tus insignias: <a href="https://github.com/FabianHMzz/readme-components#estilos">Estilos Universales</a>.
+- Puedes usar estos estilos para tus insignias: <a href="https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#estilos">Estilos Universales</a>.
 - Puedes customizar tus insignias con cualquier color.
 - Puedes usar cualquier logo válido para customizar tus insignias.
 - Si usas los **estilos**, **colores** y **logos** recuerda de eliminar los corchetes y usar estilos, colores y logos válidos.
