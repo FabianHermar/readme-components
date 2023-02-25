@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/RC.png" alt="README Components">
-</p>
-<h2 align="center">🎉 𝗔 𝗮𝘄𝗲𝘀𝗼𝗺𝗲 𝗰𝗼𝗺𝗽𝗶𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝘆𝗼𝘂𝗿 𝗿𝗲𝗮𝗱𝗺𝗲.𝗺𝗱 🎉</h2>
+<div align="center">
+  <h1>🖌 README Components 🎨</h1>
+  <h2>A awesome compilation of components for your readme.md.<br /> Badges, stats, technologies, etc., all in a only repo ⭐</h2>
+  
+  ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
+  ![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=astro&logoColor=white&style=for-the-badge)
+  ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
+  ![Deploy](https://vercelbadge.vercel.app/api/fabianhmzz/readme-components?color=black&style=for-the-badge&logo=vercel)
 
-![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/FabianHMzz/readme-components?color=burlywood&logo=astro&logoColor=white&style=for-the-badge)
+  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/readme.webp" alt="README Components">
+ </div>
 
 # How to use
 Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the usermane value for your GitHub's username.
