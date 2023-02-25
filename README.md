@@ -48,9 +48,9 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 </details>
 
 <details open> 
-  <summary><h2>🖌 Types</h2></summary>
+  <summary><h2>🖌 Designs</h2></summary>
   
-  - [🎨 Color and Types](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
+  - [🎨 Color and Designs](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
   
 </details>
 
@@ -128,7 +128,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 >NOTE: HEX colors should be used without the `#` symbol.
 
-**Type**
+**Design**
 
 | style | demo |
 | ----- | ---- |
