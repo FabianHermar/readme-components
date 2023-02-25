@@ -8,6 +8,7 @@
   ![Deploy](https://vercelbadge.vercel.app/api/fabianhmzz/readme-components?color=black&style=for-the-badge&logo=vercel)
   
  ### <a href="https://readme-components.wiki/">👉 README Components Website 👈</a>
+  ### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README.md">Versión inglés /a>
 
   <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/readme.webp" alt="README Components">
  </div>
@@ -51,7 +52,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> for tu usuario de Gi
 <details open> 
   <summary><h2>🖌 Tipos</h2></summary>
   
-  - [🎨 Color y Diseño](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
+  - [🎨 Color y Diseño](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#estilos)
   
 </details>
 
