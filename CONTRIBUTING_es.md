@@ -26,7 +26,7 @@ En resumen, cuando envié algún nuevo cambio, usted acepta que su contribución
 
 ## Reportar problemas/errores a través de Issues
 
-Si encuentras algún error o quieres sugerir una mejora, puedes crear un nuevo issue en el repositorio de GitHub. Para crear un nuevo issue, debes realizar lo siguienteÑ
+Si encuentras algún error o quieres sugerir una mejora, puedes crear un nuevo issue en el repositorio de GitHub. Para crear un nuevo issue, debes realizar lo siguiente:
 
 - Abrir un nuevo issue en el repositorio de GitHub.
 - Describir el problema o la mejora que quieres sugerir.
