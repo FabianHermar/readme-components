@@ -68,13 +68,22 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 # Components
 
-### Blog
+### 📚 Blog
 
 | Badge | URL |
 |-------|-----|
 | ![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) | `![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)` |
+| ![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | `https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow) | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow` |
+| ![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) | `https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white) | `https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
 
-### Profile Views
+### 👀 Profile Views
 
 | Badge | URL |
 |-------|-----|
@@ -82,7 +91,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### GitHub Followers
+### 👨‍💻 GitHub Followers
 
 | Badge | URL |
 |-------|-----|
@@ -90,7 +99,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### GitHub Stars
+### ⭐ GitHub Stars
 
 | Badge | URL |
 |-------|-----|
@@ -98,7 +107,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### Twitter Followers
+### 🕊 Twitter Followers
 
 | Badge | URL |
 |-------|-----|
