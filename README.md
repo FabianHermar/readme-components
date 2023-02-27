@@ -119,21 +119,34 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 # Styles
 
+**Design**
+
+| style | demo |
+| ----- | ---- |
+| `flat` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat) |
+| `flat-square` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat-square) |
+| `plastic` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=plastic) |
+| `for-the-badge` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=for-the-badge) |
+
+```Markdown
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
+```
+
 **Change Color**
 
 | color | demo |
 | ----- | ---- |
-| `brightgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen) |
-| `green` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=green) |
-| `yellow` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellow) |
-| `yellowgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellowgreen) |
-| `orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
-| `red` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=red) |
-| `blue` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) |
-| `grey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=grey) |
-| `lightgrey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=lightgrey) |
-| `blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
-| `ff69b4` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |
+| `brightgreen` | ![](https://img.shields.io/static/v1?label=brightgreen&message=1234567890&color=brightgreen&style=for-the-badge) |
+| `green` | ![](https://img.shields.io/static/v1?label=green&message=1234567890&color=green&style=for-the-badge) |
+| `yellow` | ![](https://img.shields.io/static/v1?label=yellow&message=1234567890&color=yellow&style=for-the-badge) |
+| `yellowgreen` | ![](https://img.shields.io/static/v1?label=yellowgreen&message=1234567890&color=yellowgreen&style=for-the-badge) |
+| `orange` | ![](https://img.shields.io/static/v1?label=orange&message=1234567890&color=orange&style=for-the-badge) |
+| `red` | ![](https://img.shields.io/static/v1?label=red&message=1234567890&color=red&style=for-the-badge) |
+| `blue` | ![](https://img.shields.io/static/v1?label=blue&message=1234567890&color=blue&style=for-the-badge) |
+| `grey` | ![](https://img.shields.io/static/v1?label=grey&message=1234567890&color=grey&style=for-the-badge) |
+| `lightgrey` | ![](https://img.shields.io/static/v1?label=lightgrey&message=1234567890&color=lightgrey&style=for-the-badge) |
+| `blueviolet` | ![](https://img.shields.io/static/v1?label=blueviolet&message=1234567890&color=blueviolet&style=for-the-badge) |
+| `ff69b4` | ![](https://img.shields.io/static/v1?label=ff69b4&message=1234567890&color=ff69b4&style=for-the-badge) |
 
 **Named color**
 
@@ -148,17 +161,3 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ```
 
 >NOTE: HEX colors should be used without the `#` symbol.
-
-**Design**
-
-| style | demo |
-| ----- | ---- |
-| `flat` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat) |
-| `flat-square` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat-square) |
-| `plastic` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=plastic) |
-| `for-the-badge` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=for-the-badge) |
-
-```Markdown
-![Test](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
-```
-
