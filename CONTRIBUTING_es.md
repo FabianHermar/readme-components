@@ -11,7 +11,7 @@
 
  ## Todas los cambios se realizan a través de pull requests
 
- Las solicitudes de extracción son la mejor manera de proponer cambios al código de este repositorio. Las solicitudes de extracción se basan en ramas, por lo que si quieres proponer un cambio, debes realizar lo siguiente: 
+ Las solicitudes pull request son la mejor manera de proponer cambios al código de este repositorio. Las solicitudes de extracción se basan en ramas, por lo que si quieres proponer un cambio, debes realizar lo siguiente: 
  
  - Primero debe de cambiar la rama a la nombrada <code>pre-build</code>.
  - Si a agregado o modificado algún archivo, debe de agregarlo a la lista de archivos modificados.
@@ -19,6 +19,12 @@
     - Después de realizar el commit, debe de realizar un push a la rama <code>pre-build</code>.
     - Después de realizar el push, debe de crear una nueva pull request.
     - Después de crear la pull request, debe de esperar a que sea revisada y aceptada.
+ 
+ ### Información Adicional ⚠
+ 
+ Si deseas agregar un nuevo componente para que este se vea reflejado en el sitio web, debes ingresar a la carpeta 👉 **[data](https://github.com/FabianHMzz/readme-components/tree/main/data)** 👈 y checar que tipo de componente es, si es dinámico o estático. Luego de haber confirmado de que tipo de componente es busca el `.JSON` correspondiente al componente.
+ 
+ En cada carpeta de encuentra un archivo `README.md` con una tabla para saber que significa cada abreviación y así encontrar más fácilmente el `.JSON` del componente que deseas agregar.
 
 ## Cualquier contribución que hagas será bajo la Licencia de software MIT
 
