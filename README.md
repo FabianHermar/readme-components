@@ -68,6 +68,12 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 # Components
 
+### Blog
+
+| Badge | URL |
+|-------|-----|
+| ![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) | `![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)` |
+
 ### Profile Views
 
 | Badge | URL |
