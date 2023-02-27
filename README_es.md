@@ -117,21 +117,34 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 # Estilos
 
+**Diseños**
+
+| style | demo |
+| ----- | ---- |
+| `flat` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat) |
+| `flat-square` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat-square) |
+| `plastic` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=plastic) |
+| `for-the-badge` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=for-the-badge) |
+
+```Markdown
+![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
+```
+
 **Cambiar Color**
 
 | color | demo |
 | ----- | ---- |
-| `Verde Brillante - brightgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen) |
-| `Verde - green` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=green) |
-| `Amarillo - yellow` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellow) |
-| `Amarillo Verdoso - yellowgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellowgreen) |
-| `Naranja - orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
-| `Rojo - red` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=red) |
-| `Azul - blue` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) |
-| `Gris - grey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=grey) |
-| `Gris Claro - lightgrey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=lightgrey) |
-| `Azul Violeta - blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
-| `ff69b4` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |
+| `brightgreen` | ![](https://img.shields.io/static/v1?label=Verde_Brillante&message=1234567890&color=brightgreen&style=for-the-badge) |
+| `green` | ![](https://img.shields.io/static/v1?label=Verde&message=1234567890&color=green&style=for-the-badge) |
+| `yellow` | ![](https://img.shields.io/static/v1?label=Amarillo&message=1234567890&color=yellow&style=for-the-badge&style=for-the-badge) |
+| `yellowgreen` | ![](https://img.shields.io/static/v1?label=Amarillo_Verdoso&message=1234567890&color=yellowgreen&style=for-the-badge) |
+| `orange` | ![](https://img.shields.io/static/v1?label=Naranja&message=1234567890&color=orange&style=for-the-badge) |
+| `red` | ![](https://img.shields.io/static/v1?label=Rojo&message=1234567890&color=red&style=for-the-badge) |
+| `blue` | ![](https://img.shields.io/static/v1?label=Azul&message=1234567890&color=blue&style=for-the-badge) |
+| `grey` | ![](https://img.shields.io/static/v1?label=Gris&message=1234567890&color=grey&style=for-the-badge) |
+| `lightgrey` | ![](https://img.shields.io/static/v1?label=Gris_Claro&message=1234567890&color=lightgrey&style=for-the-badge) |
+| `blueviolet` | ![](https://img.shields.io/static/v1?label=Azul_Violeta&message=1234567890&color=blueviolet&style=for-the-badge) |
+| `ff69b4` | ![](https://img.shields.io/static/v1?label=ff69b4&message=1234567890&color=ff69b4&style=for-the-badge) |
 
 **Color Nombrado**
 
@@ -146,17 +159,3 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 ```
 
 >NOTE: En los colores hexadecimales debes usarlos sin el prefijo `#`.
-
-**Diseños**
-
-| style | demo |
-| ----- | ---- |
-| `flat` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat) |
-| `flat-square` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=flat-square) |
-| `plastic` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=plastic) |
-| `for-the-badge` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=for-the-badge) |
-
-```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
-```
-
