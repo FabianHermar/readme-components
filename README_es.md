@@ -36,7 +36,8 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 <details open> 
   <summary><h2>🔷 Estáticos</h2></summary>
-
+  
+  - [📚 Blog](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-blog)
 
 </details>
 
