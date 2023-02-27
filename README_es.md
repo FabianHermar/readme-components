@@ -127,7 +127,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | `for-the-badge` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=for-the-badge) |
 
 ```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
 ```
 
 **Cambiar Color**
@@ -149,13 +149,13 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 **Color Nombrado**
 
 ```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
 ```
 
 **Color Hexadecimal**
 
 ```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
 ```
 
 >NOTE: En los colores hexadecimales debes usarlos sin el prefijo `#`.
