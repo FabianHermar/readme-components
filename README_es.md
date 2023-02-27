@@ -44,10 +44,10 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 <details open> 
   <summary><h2>💫 Dinámicos</h2></summary>
   
-  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#profile-views)
-  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#github-followers)
-  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#github-stars)
-  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#twitter-followers)
+  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-profile-views)
+  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-github-followers)
+  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-github-stars)
+  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-twitter-followers)
   
 </details>
 
