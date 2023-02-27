@@ -1,4 +1,6 @@
-# Abbreviations
+<h1 align=center>📜 Abbreviations 📜</h1>
+
+<div align=center>
 
 | Abbreviation | Meaning |
 |--------------|---------|
@@ -13,3 +15,5 @@
 | Store        | Online Stores |
 | Streaming    | Streaming Services |
 | WSS          | Workspace Specifications |
+
+</div>
