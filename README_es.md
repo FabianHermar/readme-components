@@ -83,7 +83,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
 | ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
 
-### Profile Views
+### 👀 Profile Views
 
 | Badge | URL |
 |-------|-----|
@@ -91,7 +91,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 ---
 
-### GitHub Followers
+### 👨‍💻 GitHub Followers
 
 | Badge | URL |
 |-------|-----|
@@ -99,7 +99,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 ---
 
-### GitHub Stars
+### ⭐ GitHub Stars
 
 | Badge | URL |
 |-------|-----|
@@ -107,7 +107,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 ---
 
-### Twitter Followers
+### 🕊 Twitter Followers
 
 | Badge | URL |
 |-------|-----|
