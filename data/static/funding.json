@@ -1,0 +1,116 @@
+[
+    {
+        "id": "fg1",
+        "title": "Alipay",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white"
+    },
+    {
+        "id": "fg2",
+        "title": "Amazon Pay",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/amazon_pay-FF9900?style=for-the-badge&logo=amazon-pay&logoColor=white"
+    },
+    {
+        "id": "fg3",
+        "title": "Apple Pay",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/apple_pay-000000?style=for-the-badge&logo=apple-pay&logoColor=white"
+    },
+    {
+        "id": "fg4",
+        "title": "Buy Me A Coffee",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+    },
+    {
+        "id": "fg5",
+        "title": "Cash App",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/cash_app-2C8EBB?style=for-the-badge&logo=cash-app&logoColor=white"
+    },
+    {
+        "id": "fg6",
+        "title": "Google Pay",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/google_pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white"
+    },
+    {
+        "id": "fg7",
+        "title": "Ko-Fi",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white"
+    },
+    {
+        "id": "fg8",
+        "title": "LiberaPay",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"
+    },
+    {
+        "id": "fg9",
+        "title": "Mastercard",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/mastercard-FF5500?style=for-the-badge&logo=mastercard&logoColor=white"
+    },
+    {
+        "id": "fg10",
+        "title": "Open Collective",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/open_collective-3385FF?style=for-the-badge&logo=open-collective&logoColor=white"
+    },
+    {
+        "id": "fg11",
+        "title": "Patreon",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"
+    },
+    {
+        "id": "fg12",
+        "title": "PayPal",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
+    },
+    {
+        "id": "fg13",
+        "title": "PayTM",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/paytm-3F51B5?style=for-the-badge&logo=paytm&logoColor=white"
+    },
+    {
+        "id": "fg14",
+        "title": "Picpay",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/picpay-2EBF71?style=for-the-badge&logo=picpay&logoColor=white"
+    },
+    {
+        "id": "fg15",
+        "title": "Samsung Pay",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/samsung_pay-141414?style=for-the-badge&logo=samsung-pay&logoColor=white"
+    },
+    {
+        "id": "fg16",
+        "title": "Sponsor",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"
+    },
+    {
+        "id": "fg17",
+        "title": "Stripe",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"
+    },
+    {
+        "id": "fg18",
+        "title": "Venmo",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/venmo-3D95CE?style=for-the-badge&logo=venmo&logoColor=white"
+    },
+    {
+        "id": "fg19",
+        "title": "Visa",
+        "Badge": "",
+        "url": "https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white"
+    }
+]
