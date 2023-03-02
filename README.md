@@ -39,6 +39,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
   <summary><h2>🔷 Statics</h2></summary>
   
    - [📚 Blog](https://github.com/FabianHMzz/readme-components#-blog)
+   - [📨 Contact]()
 
 
 </details>
@@ -84,6 +85,36 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white` |
 | ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
 | ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
+
+---
+
+### 📨 Contact
+
+| Badge | URL |
+|-------|-----|
+| ![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white) | `https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425) | `https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425` |
+| ![Contact](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white) | `https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white) | `https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) | `https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white) | `https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white) | `https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white) | `https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) | `https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white` |
+| ![Contact](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white) | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white` |
+
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+
 
 ### 👀 Profile Views
 
