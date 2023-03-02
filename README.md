@@ -41,6 +41,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [📚 Blog](https://github.com/FabianHMzz/readme-components#-blog)
    - [📨 Contact](https://github.com/FabianHMzz/readme-components#-contact)
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
+   - [❤ Funding]()
 
 
 </details>
@@ -139,7 +140,33 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
+### ❤ Funding
 
+| Badge | URL |
+|-------|-----|
+| ![Funding](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white) | ` https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white ` |
+| ![Funding](https://img.shields.io/badge/amazon_pay-FF9900?style=for-the-badge&logo=amazon-pay&logoColor=white) | `https://img.shields.io/badge/amazon_pay-FF9900?style=for-the-badge&logo=amazon-pay&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/apple_pay-000000?style=for-the-badge&logo=apple-pay&logoColor=white) | `https://img.shields.io/badge/apple_pay-000000?style=for-the-badge&logo=apple-pay&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) | `https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black` |
+| ![Funding](https://img.shields.io/badge/cash_app-2C8EBB?style=for-the-badge&logo=cash-app&logoColor=white) | `https://img.shields.io/badge/cash_app-2C8EBB?style=for-the-badge&logo=cash-app&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/google_pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white) | `https://img.shields.io/badge/google_pay-4285F4?style=for-the-badge&logo=google-pay&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white) | `https://img.shields.io/badge/ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black) | `https://img.shields.io/badge/liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black` |
+| ![Funding](https://img.shields.io/badge/mastercard-FF5500?style=for-the-badge&logo=mastercard&logoColor=white) | `https://img.shields.io/badge/mastercard-FF5500?style=for-the-badge&logo=mastercard&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/open_collective-3385FF?style=for-the-badge&logo=open-collective&logoColor=white) | `https://img.shields.io/badge/open_collective-3385FF?style=for-the-badge&logo=open-collective&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) | `https://img.shields.io/badge/patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white) | `https://img.shields.io/badge/paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/paytm-3F51B5?style=for-the-badge&logo=paytm&logoColor=white) | `https://img.shields.io/badge/paytm-3F51B5?style=for-the-badge&logo=paytm&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/picpay-2EBF71?style=for-the-badge&logo=picpay&logoColor=white) | `https://img.shields.io/badge/picpay-2EBF71?style=for-the-badge&logo=picpay&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/samsung_pay-141414?style=for-the-badge&logo=samsung-pay&logoColor=white) | `https://img.shields.io/badge/samsung_pay-141414?style=for-the-badge&logo=samsung-pay&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white) | `https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white` |
+| ![Funding](https://img.shields.io/badge/stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white) | `https://img.shields.io/badge/stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white` |
+| ![Funding](https://img.shields.io/badge/venmo-3D95CE?style=for-the-badge&logo=venmo&logoColor=white) | `https://img.shields.io/badge/venmo-3D95CE?style=for-the-badge&logo=venmo&logoColor=white`
+| ![Funding](https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white) | `https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white` |
+
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
 
 ### 👀 Profile Views
 
