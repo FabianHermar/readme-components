@@ -114,6 +114,30 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
+### 🌮 Food
+
+| Badge | URL |
+|-------|-----|
+| ![Food](https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white) | `https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Burger_King-FF0000?style=for-the-badge&logo=burger-king&logoColor=white) | `https://img.shields.io/badge/Burger_King-FF0000?style=for-the-badge&logo=burger-king&logoColor=white`
+| ![Food](https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=deliveroo&logoColor=white) | `https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=deliveroo&logoColor=white` |
+| ![Food](https://img.shields.io/badge/DoorDash-FFA500?style=for-the-badge&logo=doordash&logoColor=white) | `https://img.shields.io/badge/DoorDash-FFA500?style=for-the-badge&logo=doordash&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Domino's_Pizza-FF0000?style=for-the-badge&logo=dominos-pizza&logoColor=white) | `https://img.shields.io/badge/Domino's_Pizza-FF0000?style=for-the-badge&logo=dominos-pizza&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Foodpanda-E23744?style=for-the-badge&logo=foodpanda&logoColor=white) | `https://img.shields.io/badge/Foodpanda-E23744?style=for-the-badge&logo=foodpanda&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white) | `https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=grubhub&logoColor=white) | `https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=grubhub&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Just_Eat-FF8000?style=for-the-badge&logo=just-eat&logoColor=white) | `https://img.shields.io/badge/Just_Eat-FF8000?style=for-the-badge&logo=just-eat&logoColor=white` |
+| ![Food](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white) | `https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white` |
+| ![Food](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white) | `https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white` |
+| ![Food](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white) | `https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Postmates-000000?style=for-the-badge&logo=postmates&logoColor=white) | `https://img.shields.io/badge/Postmates-000000?style=for-the-badge&logo=postmates&logoColor=white` |
+| ![Food](https://img.shields.io/badge/Starbucks-00704A?style=for-the-badge&logo=starbucks&logoColor=white) | `https://img.shields.io/badge/Starbucks-00704A?style=for-the-badge&logo=starbucks&logoColor=white ` |
+| ![Food](https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white) | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white`
+
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
 
 
 ### 👀 Profile Views
