@@ -66,8 +66,6 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 <!-- Components start -->
 
 ---
----
----
 
 # Components
 
