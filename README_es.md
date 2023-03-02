@@ -36,17 +36,18 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 <details open> 
   <summary><h2>🔷 Estáticos</h2></summary>
-
+  
+  - [📚 Blog](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-blog)
 
 </details>
 
 <details open> 
   <summary><h2>💫 Dinámicos</h2></summary>
   
-  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#profile-views)
-  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#github-followers)
-  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#github-stars)
-  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#twitter-followers)
+  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-profile-views)
+  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-github-followers)
+  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-github-stars)
+  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-twitter-followers)
   
 </details>
 
@@ -67,7 +68,22 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 # Componentes
 
-### Profile Views
+### 📚 Blog
+
+| Badge | URL |
+|-------|-----|
+| ![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) | `![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)` |
+| ![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | `https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow) | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow` |
+| ![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) | `https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white) | `https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
+
+### 👀 Profile Views
 
 | Badge | URL |
 |-------|-----|
@@ -75,7 +91,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 ---
 
-### GitHub Followers
+### 👨‍💻 GitHub Followers
 
 | Badge | URL |
 |-------|-----|
@@ -83,7 +99,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 ---
 
-### GitHub Stars
+### ⭐ GitHub Stars
 
 | Badge | URL |
 |-------|-----|
@@ -91,7 +107,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 ---
 
-### Twitter Followers
+### 🕊 Twitter Followers
 
 | Badge | URL |
 |-------|-----|
@@ -100,36 +116,6 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 ---
 
 # Estilos
-
-**Cambiar Color**
-
-| color | demo |
-| ----- | ---- |
-| `Verde Brillante - brightgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen) |
-| `Verde - green` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=green) |
-| `Amarillo - yellow` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellow) |
-| `Amarillo Verdoso - yellowgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellowgreen) |
-| `Naranja - orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
-| `Rojo - red` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=red) |
-| `Azul - blue` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) |
-| `Gris - grey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=grey) |
-| `Gris Claro - lightgrey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=lightgrey) |
-| `Azul Violeta - blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
-| `ff69b4` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |
-
-**Color Nombrado**
-
-```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
-```
-
-**Color Hexadecimal**
-
-```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
-```
-
->NOTE: En los colores hexadecimales debes usarlos sin el prefijo `#`.
 
 **Diseños**
 
@@ -141,6 +127,35 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | `for-the-badge` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=for-the-badge) |
 
 ```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
 ```
 
+**Cambiar Color**
+
+| color | demo |
+| ----- | ---- |
+| `brightgreen` | ![](https://img.shields.io/static/v1?label=Verde_Brillante&message=1234567890&color=brightgreen&style=for-the-badge) |
+| `green` | ![](https://img.shields.io/static/v1?label=Verde&message=1234567890&color=green&style=for-the-badge) |
+| `yellow` | ![](https://img.shields.io/static/v1?label=Amarillo&message=1234567890&color=yellow&style=for-the-badge&style=for-the-badge) |
+| `yellowgreen` | ![](https://img.shields.io/static/v1?label=Amarillo_Verdoso&message=1234567890&color=yellowgreen&style=for-the-badge) |
+| `orange` | ![](https://img.shields.io/static/v1?label=Naranja&message=1234567890&color=orange&style=for-the-badge) |
+| `red` | ![](https://img.shields.io/static/v1?label=Rojo&message=1234567890&color=red&style=for-the-badge) |
+| `blue` | ![](https://img.shields.io/static/v1?label=Azul&message=1234567890&color=blue&style=for-the-badge) |
+| `grey` | ![](https://img.shields.io/static/v1?label=Gris&message=1234567890&color=grey&style=for-the-badge) |
+| `lightgrey` | ![](https://img.shields.io/static/v1?label=Gris_Claro&message=1234567890&color=lightgrey&style=for-the-badge) |
+| `blueviolet` | ![](https://img.shields.io/static/v1?label=Azul_Violeta&message=1234567890&color=blueviolet&style=for-the-badge) |
+| `ff69b4` | ![](https://img.shields.io/static/v1?label=ff69b4&message=1234567890&color=ff69b4&style=for-the-badge) |
+
+**Color Nombrado**
+
+```Markdown
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
+```
+
+**Color Hexadecimal**
+
+```Markdown
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
+```
+
+>NOTE: En los colores hexadecimales debes usarlos sin el prefijo `#`.

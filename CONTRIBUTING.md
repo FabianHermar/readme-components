@@ -20,6 +20,12 @@ Pull requests are the best way to propose changes to the code in this repository
     - After performing the push, you must create a new pull request.
     - After creating the pull request, you must wait for it to be reviewed and accepted.
 
+### Aditional Info ⚠
+
+If you want to add a new component so that it is reflected on the website, you must enter the folder 👉 **[data](https://github.com/fabianhmzz/readme-components/tree/main/data)** 👈 and check what type of component is, if it is dynamic or static. After having confirmed what type of component is it seeks the `.json` corresponding to the component.
+ 
+  In each folder he finds an `readme.md` file with a table to know what each abbreviation means and thus find the `.json` of the component you want to add.
+
 ## Any contribution you make will be under the MIT Software License
 
 In short, when you send a new change, you accept that your contribution is licensed under the MIT Software License.

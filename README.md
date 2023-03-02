@@ -37,6 +37,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 <details open> 
   <summary><h2>🔷 Statics</h2></summary>
+  
+   - [📚 Blog](https://github.com/FabianHMzz/readme-components#-blog)
 
 
 </details>
@@ -44,10 +46,10 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 <details open> 
   <summary><h2>💫 Dynamics</h2></summary>
   
-  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#profile-views)
-  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#github-followers)
-  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#github-stars)
-  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#twitter-followers)
+  - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#-profile-views)
+  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#-github-followers)
+  - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#-github-stars)
+  - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#-twitter-followers)
   
 </details>
 
@@ -68,13 +70,22 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 # Components
 
-### Blog
+### 📚 Blog
 
 | Badge | URL |
 |-------|-----|
 | ![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) | `![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)` |
+| ![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white) | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | `https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow) | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow` |
+| ![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) | `https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white) | `https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white) | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
+| ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
 
-### Profile Views
+### 👀 Profile Views
 
 | Badge | URL |
 |-------|-----|
@@ -82,7 +93,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### GitHub Followers
+### 👨‍💻 GitHub Followers
 
 | Badge | URL |
 |-------|-----|
@@ -90,7 +101,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### GitHub Stars
+### ⭐ GitHub Stars
 
 | Badge | URL |
 |-------|-----|
@@ -98,7 +109,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### Twitter Followers
+### 🕊 Twitter Followers
 
 | Badge | URL |
 |-------|-----|
@@ -107,36 +118,6 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ---
 
 # Styles
-
-**Change Color**
-
-| color | demo |
-| ----- | ---- |
-| `brightgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen) |
-| `green` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=green) |
-| `yellow` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellow) |
-| `yellowgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellowgreen) |
-| `orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
-| `red` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=red) |
-| `blue` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) |
-| `grey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=grey) |
-| `lightgrey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=lightgrey) |
-| `blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
-| `ff69b4` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |
-
-**Named color**
-
-```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
-```
-
-**Hex color**
-
-```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
-```
-
->NOTE: HEX colors should be used without the `#` symbol.
 
 **Design**
 
@@ -148,6 +129,35 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | `for-the-badge` | ![](https://img.shields.io/static/v1?label=Test&message=1234567890&color=007ec6&style=for-the-badge) |
 
 ```Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&style=[STYLE])
 ```
 
+**Change Color**
+
+| color | demo |
+| ----- | ---- |
+| `brightgreen` | ![](https://img.shields.io/static/v1?label=brightgreen&message=1234567890&color=brightgreen&style=for-the-badge) |
+| `green` | ![](https://img.shields.io/static/v1?label=green&message=1234567890&color=green&style=for-the-badge) |
+| `yellow` | ![](https://img.shields.io/static/v1?label=yellow&message=1234567890&color=yellow&style=for-the-badge) |
+| `yellowgreen` | ![](https://img.shields.io/static/v1?label=yellowgreen&message=1234567890&color=yellowgreen&style=for-the-badge) |
+| `orange` | ![](https://img.shields.io/static/v1?label=orange&message=1234567890&color=orange&style=for-the-badge) |
+| `red` | ![](https://img.shields.io/static/v1?label=red&message=1234567890&color=red&style=for-the-badge) |
+| `blue` | ![](https://img.shields.io/static/v1?label=blue&message=1234567890&color=blue&style=for-the-badge) |
+| `grey` | ![](https://img.shields.io/static/v1?label=grey&message=1234567890&color=grey&style=for-the-badge) |
+| `lightgrey` | ![](https://img.shields.io/static/v1?label=lightgrey&message=1234567890&color=lightgrey&style=for-the-badge) |
+| `blueviolet` | ![](https://img.shields.io/static/v1?label=blueviolet&message=1234567890&color=blueviolet&style=for-the-badge) |
+| `ff69b4` | ![](https://img.shields.io/static/v1?label=ff69b4&message=1234567890&color=ff69b4&style=for-the-badge) |
+
+**Named color**
+
+```Markdown
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
+```
+
+**Hex color**
+
+```Markdown
+![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
+```
+
+>NOTE: HEX colors should be used without the `#` symbol.
