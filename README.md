@@ -86,6 +86,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
 | ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
 
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 📨 Contact
@@ -122,6 +124,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 |-------|-----|
 | <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge"> | `![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=[COLOR]&style=[STYLE]`|
 
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 👨‍💻 GitHub Followers
@@ -129,6 +133,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | Badge | URL |
 |-------|-----|
 | ![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge) | `![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])` |
+
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
 
 ---
 
@@ -138,6 +144,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 |-------|-----|
 | ![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge) | `![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=[VALID_LOGO]&style=[STYLE])`|
 
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 🕊 Twitter Followers
@@ -145,6 +153,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | Badge | URL |
 |-------|-----|
 | ![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) | `![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])`|
+
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
 
 ---
 
@@ -192,3 +202,5 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ```
 
 >NOTE: HEX colors should be used without the `#` symbol.
+
+[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
