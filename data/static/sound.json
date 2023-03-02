@@ -1,0 +1,98 @@
+[
+    {
+        "id": "sn1",
+        "title": "100Tracklists",
+        "badge":"",
+        "url": "https://img.shields.io/badge/1001tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white"
+    },
+    {
+        "id": "sn2",
+        "title": "Apple Music",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Apple_Music-999999?style=for-the-badge&logo=apple-music&logoColor=white"
+    },
+    {
+        "id": "sn3",
+        "title": "Apple Podcasts",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white"
+    },
+    {
+        "id": "sn4",
+        "title": "AudaCity",
+        "badge":"",
+        "url": "https://img.shields.io/badge/AudaCity-FF0000?style=for-the-badge&logo=AudaCity&logoColor=white"
+    },
+    {
+        "id": "sn5",
+        "title": "Deezer",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Deezer-00C7F2?style=for-the-badge&logo=Deezer&logoColor=white"
+    },
+    {
+        "id": "sn6",
+        "title": "Google Play Music",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Google_Play_Music-4285F4?style=for-the-badge&logo=Google&logoColor=white"
+    },
+    {
+        "id": "sn7",
+        "title": "Google Podcasts",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white"
+    },
+    {
+        "id": "sn8",
+        "title": "iHeartRadio",
+        "badge":"",
+        "url": "https://img.shields.io/badge/iHeartRadio-C8102E?style=for-the-badge&logo=iHeartRadio&logoColor=white"
+    },
+    {
+        "id": "sn9",
+        "title": "Last.fm",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"
+    },
+    {
+        "id": "sn10",
+        "title": "Pandora",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Pandora-0055FF?style=for-the-badge&logo=Pandora&logoColor=white"
+    },
+    {
+        "id": "sn11",
+        "title": "Shazam",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=Shazam&logoColor=white"
+    },
+    {
+        "id": "sn12",
+        "title": "SoundCloud",
+        "badge":"",
+        "url": "https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white"
+    },
+    {
+        "id": "sn13",
+        "title": "Spotify",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white"
+    },
+    {
+        "id": "sn14",
+        "title": "Tidal",
+        "badge":"",
+        "url": "https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white"
+    },
+    {
+        "id": "sn15",
+        "title": "TuneIn",
+        "badge":"",
+        "url": "https://img.shields.io/badge/TuneIn-000000?style=for-the-badge&logo=TuneIn&logoColor=white"
+    },
+    {
+        "id": "sn16",
+        "title": "YouTube Music",
+        "badge":"",
+        "url": "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=YouTube-music&logoColor=white"
+    }
+]
