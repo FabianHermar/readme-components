@@ -42,6 +42,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [📨 Contact](https://github.com/FabianHMzz/readme-components#-contact)
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
+   - [🎮 Games]()
 
 
 </details>
@@ -86,7 +87,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
 | ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
 
-[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
 ---
 
@@ -112,7 +113,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white` |
 | ![Contact](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white) | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white` |
 
-[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
 ---
 
@@ -136,7 +137,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Food](https://img.shields.io/badge/Starbucks-00704A?style=for-the-badge&logo=starbucks&logoColor=white) | `https://img.shields.io/badge/Starbucks-00704A?style=for-the-badge&logo=starbucks&logoColor=white ` |
 | ![Food](https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white) | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white`
 
-[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
 ---
 
@@ -164,7 +165,30 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Funding](https://img.shields.io/badge/venmo-3D95CE?style=for-the-badge&logo=venmo&logoColor=white) | `https://img.shields.io/badge/venmo-3D95CE?style=for-the-badge&logo=venmo&logoColor=white`
 | ![Funding](https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white) | `https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white` |
 
-[⬆ Go to Top](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🎮 Games
+
+| Badge | URL |
+|-------|-----|
+| ![Games](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF) | `https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF` |
+| ![Games](https://img.shields.io/badge/Counter--Strike-000?style=for-the-badge&logo=counter-strike&logoColor=5E7461) | `https://img.shields.io/badge/Counter--Strike-000?style=for-the-badge&logo=counter-strike&logoColor=5E7461` |
+| ![Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) | `https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white` |
+| ![Games](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white) | `https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=black) | `https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=black` |
+| ![Games](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white) | `https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white) | `https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white` |
+| ![Games](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) | `https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white) | `https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white) | `https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white) | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) | `https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) | `https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
 ---
 
