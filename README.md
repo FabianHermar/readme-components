@@ -269,6 +269,10 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=green)
 ```
 
+```diff
+! For better compatibility with the use of colors, use hexadecimal colors.
+```
+
 **Hex color**
 
 ```Markdown
