@@ -1,0 +1,212 @@
+[
+    {
+        "id": "cl1",
+        "title": "Alibaba Cloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"
+    },
+    {
+        "id": "cl2",
+        "title": "Amazon Web Services",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+    },
+    {
+        "id": "cl3",
+        "title": "Azure",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"
+    },
+    {
+        "id": "cl4",
+        "title": "Azure DevOps",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"
+    },
+    {
+        "id": "cl5",
+        "title": "Azure Functions",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"
+    },
+    {
+        "id": "cl6",
+        "title": "CircleCI",
+        "badge": "",
+        "url": "https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"
+    },
+    {
+        "id": "cl7",
+        "title": "Cirrus CI",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Cirrus_CI-525252?style=for-the-badge&logo=cirrus-ci&logoColor=white"
+    },
+    {
+        "id": "cl8",
+        "title": "Cloudflare",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"
+    },
+    {
+        "id": "cl9",
+        "title": "Cloudflare Pages",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Cloudflare_Pages-0690FA?style=for-the-badge&logo=cloudflare&logoColor=white"
+    },
+    {
+        "id": "cl10",
+        "title": "Cloudsmith",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Cloudsmith-0D1117?style=for-the-badge&logo=cloudsmith&logoColor=white"
+    },
+    {
+        "id": "cl11",
+        "title": "Codemagic",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Codemagic-004466?style=for-the-badge&logo=codemagic&logoColor=white"
+    },
+    {
+        "id": "cl12",
+        "title": "DigitalOcean",
+        "badge": "",
+        "url": "https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"
+    },
+    {
+        "id": "cl13",
+        "title": "Elastic cloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Elastic_cloud-005571?style=for-the-badge&logo=elastic&logoColor=white"
+    },
+    {
+        "id": "cl14",
+        "title": "Firebase",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+    },
+    {
+        "id": "cl15",
+        "title": "GitHub Actions",
+        "badge": "",
+        "url": "https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"
+    },
+    {
+        "id": "cl16",
+        "title": "GitHub Pages",
+        "badge": "",
+        "url": "https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white"
+    },
+    {
+        "id": "cl17",
+        "title": "Google Cloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+    },
+    {
+        "id": "cl18",
+        "title": "Heroku",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+    },
+    {
+        "id": "cl19",
+        "title": "Hetzner Cloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white"
+    },
+    {
+        "id": "cl20",
+        "title": "IBM Cloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/IBM_Cloud-1A458E?style=for-the-badge&logo=IBM%20Cloud&logoColor=white"
+    },
+    {
+        "id": "cl21",
+        "title": "iCloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white"
+    },
+    {
+        "id": "cl22",
+        "title": "JSDelivr",
+        "badge": "",
+        "url": "https://img.shields.io/badge/JSDelivr-FF0000?style=for-the-badge&logo=jsdelivr&logoColor=white"
+    },
+    {
+        "id": "cl23",
+        "title": "Linode",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"
+    },
+    {
+        "id": "cl24",
+        "title": "Mix Cloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Mix_Cloud-3F51B5?style=for-the-badge&logo=mixcloud&logoColor=white"
+    },
+    {
+        "id": "cl25",
+        "title": "Netlify",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+    },
+    {
+        "id": "cl26",
+        "title": "Nextcloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"
+    },
+    {
+        "id": "cl27",
+        "title": "Octopus Deploy",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Octopus_Deploy-0088CC?style=for-the-badge&logo=octopus-deploy&logoColor=white"
+    },
+    {
+        "id": "cl28",
+        "title": "Oracle",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    },
+    {
+        "id": "cl29",
+        "title": "Railway",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"
+    },
+    {
+        "id": "cl30",
+        "title": "Render",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"
+    },
+    {
+        "id": "cl31",
+        "title": "SonarCloud",
+        "badge": "",
+        "url": "https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white"
+    },
+    {
+        "id": "cl32",
+        "title": "Terraform",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"
+    },
+    {
+        "id": "cl33",
+        "title": "Travis CI",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white"
+    },
+    {
+        "id": "cl34",
+        "title": "Twilio",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Twilio-FF6F00?style=for-the-badge&logo=twilio&logoColor=white"
+    },
+    {
+        "id": "cl35",
+        "title": "Vercel",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    }
+]
