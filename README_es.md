@@ -67,8 +67,6 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 <!-- Components start -->
 
 ---
----
----
 
 # Componentes
 
