@@ -273,12 +273,3 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ! For better compatibility with the use of colors, use hexadecimal colors.
 ```
 
-**Hex color**
-
-```Markdown
-![Test](https://komarev.com/ghpvc/?username=[USERNAME]&color=dc143c)
-```
-
->NOTE: HEX colors should be used without the `#` symbol.
-
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
