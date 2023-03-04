@@ -6,6 +6,7 @@
 |--------------|---------|
 | Analytics    | Analytics Services |
 | Blog         | Blogging websites |
+| Cloud        | Cloud Services |
 | Contact      | Contact Methods |
 | Food         | Food and Drink services |
 | Funding      | Funding Services |
