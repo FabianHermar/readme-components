@@ -43,7 +43,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
-   - [📈 Analytics]()
+   - [📈 Analytics](https://github.com/FabianHMzz/readme-components#-analytics)
 
 
 </details>
