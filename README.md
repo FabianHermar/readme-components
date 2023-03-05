@@ -38,10 +38,12 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 <details open> 
   <summary><h2>🔷 Statics</h2></summary>
   
+   - [📈 Analytics](https://github.com/FabianHMzz/readme-components#-analytics)
    - [📚 Blog](https://github.com/FabianHMzz/readme-components#-blog)
    - [📨 Contact](https://github.com/FabianHMzz/readme-components#-contact)
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
+   - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
 
 
@@ -71,6 +73,20 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ---
 
 # Components
+
+### 📈 Analytics
+
+| Badge | URL |
+|-------|-----|
+| ![Analytics](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white) | `https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) | `https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Hotjar-FF7E00?style=for-the-badge&logo=hotjar&logoColor=white) | `https://img.shields.io/badge/Hotjar-FF7E00?style=for-the-badge&logo=hotjar&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) | `https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white) | `https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white) | `https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white` |
+
+---
 
 ### 📚 Blog
 
@@ -169,6 +185,23 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
+### 👨‍💻 Frameworks and Libraries
+
+| Badge | URL |
+|-------|-----|
+| ![FyL](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | `https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white) | `https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/AlpineJS-00AEFF?style=for-the-badge&logo=alpine.js&logoColor=white) | `https://img.shields.io/badge/AlpineJS-00AEFF?style=for-the-badge&logo=alpine.js&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | `https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) | `https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white) | `https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | `https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) | `https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | `https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) | `https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white` |
+
+---
+
 ### 🎮 Games
 
 | Badge | URL |
@@ -185,6 +218,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white) | `https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white) | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) | `https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Ubisoft-252122?style=for-the-badge&logo=ubisoft&logoColor=white) | `https://img.shields.io/badge/Ubisoft-252122?style=for-the-badge&logo=ubisoft&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) | `https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white` |
 
