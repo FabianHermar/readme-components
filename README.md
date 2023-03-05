@@ -38,13 +38,13 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 <details open> 
   <summary><h2>🔷 Statics</h2></summary>
   
+   - [📈 Analytics](https://github.com/FabianHMzz/readme-components#-analytics)
    - [📚 Blog](https://github.com/FabianHMzz/readme-components#-blog)
    - [📨 Contact](https://github.com/FabianHMzz/readme-components#-contact)
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
+   - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
-   - [📈 Analytics](https://github.com/FabianHMzz/readme-components#-analytics)
-   - [👨‍💻 Frameworks and Libraries]()
 
 
 </details>
