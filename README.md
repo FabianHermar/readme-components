@@ -44,6 +44,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
    - [📈 Analytics](https://github.com/FabianHMzz/readme-components#-analytics)
+   - [👨‍💻 Frameworks and Libraries]()
 
 
 </details>
@@ -181,6 +182,23 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Funding](https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white) | `https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 👨‍💻 Frameworks and Libraries
+
+| Badge | URL |
+|-------|-----|
+| ![FyL](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | `https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white) | `https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/AlpineJS-00AEFF?style=for-the-badge&logo=alpine.js&logoColor=white) | `https://img.shields.io/badge/AlpineJS-00AEFF?style=for-the-badge&logo=alpine.js&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | `https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) | `https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white) | `https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | `https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) | `https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | `https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) | `https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white` |
 
 ---
 
