@@ -73,12 +73,18 @@
     },
     {
         "id": "gs13",
+        "title": "Ubisoft",
+        "badge": "",
+        "url": "https://img.shields.io/badge/Ubisoft-252122?style=for-the-badge&logo=ubisoft&logoColor=white"
+    },
+    {
+        "id": "gs14",
         "title": "Valorant",
         "badge": "",
         "url": "https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"
     },
     {
-        "id": "gs14",
+        "id": "gs15",
         "title": "Xbox",
         "badge": "",
         "url": "https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"
