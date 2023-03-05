@@ -199,6 +199,36 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![FyL](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) | `https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white` |
 | ![FyL](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | `https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white` |
 | ![FyL](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) | `https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) | `https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black) | `https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black` |
+| ![FyL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white) | `https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE) | `https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE` |
+| ![FyL](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black) | `https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black` |
+| ![FyL](https://img.shields.io/badge/BackboneJS-000000?style=for-the-badge&logo=backbone.js&logoColor=white) | `https://img.shields.io/badge/BackboneJS-000000?style=for-the-badge&logo=backbone.js&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | `https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) | `https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) | `https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white) | `https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white` |
+| ![FyL]( https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white) | `https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/cMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | `https://img.shields.io/badge/cMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/CodeceptJS-000000?style=for-the-badge&logo=codeceptjs&logoColor=white) | `https://img.shields.io/badge/CodeceptJS-000000?style=for-the-badge&logo=codeceptjs&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Codeigniter-F55247?style=for-the-badge&logo=codeigniter&logoColor=white) | `https://img.shields.io/badge/Codeigniter-F55247?style=for-the-badge&logo=codeigniter&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white) | `https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) | `https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white) | `https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white) | `https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | `https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | `https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white) | `https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white) | `https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) | `https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) | `https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | `https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) | `https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white) | `https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | `https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white) | `https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white` |
+| ![FyL](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) | `https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white` |
 
 ---
 
