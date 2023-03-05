@@ -218,6 +218,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white) | `https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white) | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) | `https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white` |
+| ![Games](https://img.shields.io/badge/Ubisoft-252122?style=for-the-badge&logo=ubisoft&logoColor=white) | `https://img.shields.io/badge/Ubisoft-252122?style=for-the-badge&logo=ubisoft&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) | `https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white` |
 
