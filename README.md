@@ -53,7 +53,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
   <summary><h2>💫 Dynamics</h2></summary>
   
   - [👀 Profile Views](https://github.com/FabianHMzz/readme-components#-profile-views)
-  - [👨‍💻 GitHub Followers](https://github.com/FabianHMzz/readme-components#-github-followers)
+  - [👥 GitHub Followers](https://github.com/FabianHMzz/readme-components#-github-followers)
   - [⭐ GitHub Stars](https://github.com/FabianHMzz/readme-components#-github-stars)
   - [🕊 Twitter Followers](https://github.com/FabianHMzz/readme-components#-twitter-followers)
   
@@ -271,7 +271,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
-### 👨‍💻 GitHub Followers
+### 👥 GitHub Followers
 
 | Badge | URL |
 |-------|-----|
