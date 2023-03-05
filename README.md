@@ -86,6 +86,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Analytics](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white` |
 | ![Analytics](https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white) | `https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white` |
 
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 📚 Blog
@@ -229,6 +231,9 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![FyL](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | `https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white` |
 | ![FyL](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white) | `https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white` |
 | ![FyL](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) | `https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white` |
+
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
 ---
 
