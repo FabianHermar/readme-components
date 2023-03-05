@@ -43,6 +43,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
+   - [📈 Analytics]()
 
 
 </details>
@@ -71,6 +72,20 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 ---
 
 # Components
+
+### 📈 Analytics
+
+| Badge | URL |
+|-------|-----|
+| ![Analytics](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white) | `https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) | `https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Hotjar-FF7E00?style=for-the-badge&logo=hotjar&logoColor=white) | `https://img.shields.io/badge/Hotjar-FF7E00?style=for-the-badge&logo=hotjar&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) | `https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white) | `https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white) | `https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white` |
+
+---
 
 ### 📚 Blog
 
