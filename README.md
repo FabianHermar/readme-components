@@ -13,7 +13,7 @@
  #### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README_es.md">🌎 README file - Spanish version 🌎</a>
 
 
-  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/readme.webp" alt="README Components">
+  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/Mockup%20PC.webp" alt="README Components">
  </div>
 
 # How to use
