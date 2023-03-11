@@ -28,27 +28,18 @@ const Header = () => {
                     </li>
                     <li>
                       <a href='#' className='group relative before:absolute before:inset-x-0 before:bottom-0 hover:underline hover:decoration-purple-300 hover:decoration-4 before:h-2 before:origin-right before:scale-x-0 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100'>
-                        <span className='relative text-black lg:text-white ease-in duration-200'>Componentes</span>
+                        <span className='relative text-black lg:text-white ease-in duration-200'>C-Estáticos</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href='#' className='group relative before:absolute before:inset-x-0 before:bottom-0 hover:underline hover:decoration-purple-300 hover:decoration-4 before:h-2 before:origin-right before:scale-x-0 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100'>
+                        <span className='relative text-black lg:text-white ease-in duration-200'>C-Dinámicos</span>
                       </a>
                     </li>
                     <li>
                       <a href='https://github.com/FabianHMzz/readme-components' target='_blank' rel='noopener noreferrer' className='group relative before:absolute before:inset-x-0 before:bottom-0 hover:underline hover:decoration-purple-300 hover:decoration-4 before:h-2 before:origin-right before:scale-x-0 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100'>
-                        <span className='relative text-black lg:text-white ease-in duration-200'>Github</span>
+                        <span className='relative text-black lg:text-white ease-in duration-200'>GitHub</span>
                       </a>
-                    </li>
-                    <li>
-                      <button className='relative flex justify-center items-center transition ease-out duration-100 focus:outline-none text-black rounded focus:ring ring-gray-200 group'>
-                        <p className='text-black lg:text-white'>Más Opciones</p>
-                        <span className='pl-1'>
-                          <svg className='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='https://www.w3.org/2000/svg'><path strokeLinecap='round' strokeLinejoin='round' strokeWidth='2' d='M19 9l-7 7-7-7'></path></svg>
-                        </span>
-                        <div className='absolute hidden top-full min-w-full w-max bg-white shadow-md mt-1 rounded group-focus:block'>
-                          <ul className='text-left border rounded'>
-                            <li className='px-4 py-1 hover:bg-gray-100 border-b'><a href='http://fabianhmz.dev/' target='_blank' rel='noopener noreferrer'>Web Personal</a></li>
-                            <li className='px-4 py-1 hover:bg-gray-100 border-b'><a href='http://visual-tradex.com/' target='_blank' rel='noopener noreferrer'>Web Empresarial</a></li>
-                          </ul>
-                        </div>
-                      </button>
                     </li>
                   </ul>
                 </div>
