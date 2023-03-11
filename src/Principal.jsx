@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <section className='min-h-screen'>
       <div className='font-sans flex justify-center items-center flex-col select-none'>
-        <h1 className='absolute drop-shadow-2xl text-3xl animate-charcter lg:text-8xl font-extrabold top-[40%]'> README Components</h1>
+        <h1 className='absolute text-white drop-shadow-2xl text-3xl lg:text-8xl font-extrabold top-[40%]'> README Components</h1>
         <p className='absolute top-[46%] lg:top-[57%] font-semibold text-[13px] text-white lg:text-3xl'>Dale un toque de vida a tus archivos <code>markdown.md</code></p>
         <div className='absolute mt-8 text-2xl lg:text-3xl flex items-center justify-center gap-6 top-[50%] lg:top-[60%]'>
           {
