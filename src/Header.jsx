@@ -3,13 +3,13 @@ import RCL from '../assets/RCL.webp'
 const Header = () => {
   return (
     <header>
-      <div className='relative z-20 bg-gray-100/10'>
+      <div className='relative z-20 lg:backdrop-blur bg-gray-100/10'>
         <div className='px-6 md:px-12 lg:px-6 lg:py-4'>
           <div className='flex items-center justify-between'>
             <div className='relative z-20'>
               <a href='#' className='flex items-center justify-center'>
                 <img src={RCL} alt='README Components' className='w-10 md:w-12 mr-3' />
-                <p className='font-sans font-bold drop-shadow'>RC.md</p>
+                <p className='font-sans lg:text-white font-bold drop-shadow'>RC.md</p>
               </a>
             </div>
             <div className='flex items-center justify-end lg:border-l-0'>
