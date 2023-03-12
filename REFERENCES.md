@@ -5,7 +5,7 @@
 
 | Author | Repository |
 |--------|------------|
-| Anton Komarev | <a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/README.md">View Project</a> |
+| Anton Komarev | <a href="https://github.com/antonkomarev/github-profile-views-counter">View Project</a> |
 
 ### 🛡 Shields and Badges
 
