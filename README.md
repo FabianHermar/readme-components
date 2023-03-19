@@ -129,6 +129,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Company](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) | `https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white` |
 | ![Company](https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white) | `https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white` |
 
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 📨 Contact
