@@ -1,104 +1,87 @@
 [
-    {
-        "id": "cn1",
-        "title": "Gmail",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    },
-    {
-        "id": "cn2",
-        "title": "GroupMe",
-        "badge": "",
-        "url": "https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white"
-    },
-    {
-        "id": "cn3",
-        "title": "ICQ",
-        "badge": "",
-        "url": "https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425"
-    },
-    {
-        "id": "cn4",
-        "title": "KIK",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white"
-    },
-    {
-        "id": "cn5",
-        "title": "LINE",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"
-    },
-    {
-        "id": "cn6",
-        "title": "Matrix",
-        "badge": "",
-        "url": "https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"
-    },
-    {
-        "id": "cn7",
-        "title": "Messenger",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"
-    },
-    {
-        "id": "cn8",
-        "title": "Outlook",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-    },
-    {
-        "id": "cn9",
-        "title": "ProtonMail",
-        "badge": "",
-        "url": "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
-    },
-    {
-        "id": "cn10",
-        "title": "Signal",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"
-    },
-    {
-        "id": "cn11",
-        "title": "Telegram",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-    },
-    {
-        "id": "cn12",
-        "title": "Tutanota",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"
-    },
-    {
-        "id": "cn13",
-        "title": "Viber",
-        "badge": "",
-        "url": "https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white"
-    },
-    {
-        "id": "cn14",
-        "title": "WeChat",
-        "badge": "",
-        "url": "https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"
-    },
-    {
-        "id": "cn15",
-        "title": "Website",
-        "badge": "",
-        "url": "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-    },
-    {
-        "id": "cn16",
-        "title": "WhatsApp",
-        "badge": "",
-        "url": "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-    },
-    {
-        "id": "cn17",
-        "title": "Wire",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white"
-    }
+  {
+    "title": "Gmail",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  },
+  {
+    "title": "GroupMe",
+    "badge": "",
+    "url": "https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white"
+  },
+  {
+    "title": "ICQ",
+    "badge": "",
+    "url": "https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425"
+  },
+  {
+    "title": "KIK",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white"
+  },
+  {
+    "title": "LINE",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"
+  },
+  {
+    "title": "Matrix",
+    "badge": "",
+    "url": "https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"
+  },
+  {
+    "title": "Messenger",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"
+  },
+  {
+    "title": "Outlook",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+  },
+  {
+    "title": "ProtonMail",
+    "badge": "",
+    "url": "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
+  },
+  {
+    "title": "Signal",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"
+  },
+  {
+    "title": "Telegram",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+  },
+  {
+    "title": "Tutanota",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"
+  },
+  {
+    "title": "Viber",
+    "badge": "",
+    "url": "https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white"
+  },
+  {
+    "title": "WeChat",
+    "badge": "",
+    "url": "https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"
+  },
+  {
+    "title": "Website",
+    "badge": "",
+    "url": "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
+  },
+  {
+    "title": "WhatsApp",
+    "badge": "",
+    "url": "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+  },
+  {
+    "title": "Wire",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white"
+  }
 ]
