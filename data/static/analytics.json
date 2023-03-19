@@ -1,44 +1,37 @@
 [
-    {
-        "id": "an2",
-        "title": "Codecov",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white"
-    },
-    {
-        "id": "an1",
-        "title": "Google Analytics",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"
-    },
-    {
-        "id": "an3",
-        "title": "Hotjar",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Hotjar-FF7E00?style=for-the-badge&logo=hotjar&logoColor=white"
-    },
-    {
-        "id": "an4",
-        "title": "Kibana",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"
-    },
-    {
-        "id": "an5",
-        "title": "Matomo",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white"
-    },
-    {
-        "id": "an6",
-        "title": "Tableau",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-    },
-    {
-        "id": "an7",
-        "title": "WakaTime",
-        "badge": "",
-        "url": "https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white"
-    }
+  {
+    "title": "Codecov",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white"
+  },
+  {
+    "title": "Google Analytics",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"
+  },
+  {
+    "title": "Hotjar",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Hotjar-FF7E00?style=for-the-badge&logo=hotjar&logoColor=white"
+  },
+  {
+    "title": "Kibana",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"
+  },
+  {
+    "title": "Matomo",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white"
+  },
+  {
+    "title": "Tableau",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+  },
+  {
+    "title": "WakaTime",
+    "badge": "",
+    "url": "https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white"
+  }
 ]
