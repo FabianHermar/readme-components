@@ -125,7 +125,6 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Company](https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white) | `https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white` |
 | ![Company](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white` |
 | ![Company](https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | `https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white` |
-| ![Company](https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | `https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white` |
 | ![Company](https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white) | `https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white` |
 | ![Company](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) | `https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white` |
 | ![Company](https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white) | `https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white` |
