@@ -1,80 +1,67 @@
 [
-    {
-        "id": "st1",
-        "title": "Google Play Store",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"
-    },
-    {
-        "id": "st2",
-        "title": "App Store",
-        "badge": "",
-        "url": "https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"
-    },
-    {
-        "id": "st3",
-        "title": "Windows Store",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Windows_Store-0078D7?style=for-the-badge&logo=windows&logoColor=white"
-    },
-    {
-        "id": "st4",
-        "title": "F-Droid",
-        "badge": "",
-        "url": "https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white"
-    },
-    {
-        "id": "st5",
-        "title": "Gumroad",
-        "badge": "",
-        "url": "https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white"
-    },
-    {
-        "id": "st6",
-        "title": "Huawei AppGallery",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Huawei_AppGallery-A81D33?style=for-the-badge&logo=huawei&logoColor=white"
-    },
-    {
-        "id": "st7",
-        "title": "Microsoft Store",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Microsoft_Store-0078D7?style=for-the-badge&logo=microsoft&logoColor=white"
-    },
-    {
-        "id": "st8",
-        "title": "Amazon",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white"
-    },
-    {
-        "id": "st9",
-        "title": "Mercado Libre",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Mercado_Libre-FFE600?style=for-the-badge&logo=mercadolibre&logoColor=black"
-    },
-    {
-        "id": "st10",
-        "title": "Ebay",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Ebay-0064D2?style=for-the-badge&logo=ebay&logoColor=white"
-    },
-    {
-        "id": "st11",
-        "title": "Best Buy",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Best_Buy-003087?style=for-the-badge&logo=bestbuy&logoColor=white"
-    },
-    {
-        "id": "st12",
-        "title": "Walmart",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Walmart-0070C0?style=for-the-badge&logo=walmart&logoColor=white"
-    },
-    {
-        "id": "st13",
-        "title": "Target",
-        "badge": "",
-        "url": "https://img.shields.io/badge/Target-CC0000?style=for-the-badge&logo=target&logoColor=white"
-    }
+  {
+    "title": "Google Play Store",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"
+  },
+  {
+    "title": "App Store",
+    "badge": "",
+    "url": "https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"
+  },
+  {
+    "title": "Windows Store",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Windows_Store-0078D7?style=for-the-badge&logo=windows&logoColor=white"
+  },
+  {
+    "title": "F-Droid",
+    "badge": "",
+    "url": "https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white"
+  },
+  {
+    "title": "Gumroad",
+    "badge": "",
+    "url": "https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white"
+  },
+  {
+    "title": "Huawei AppGallery",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Huawei_AppGallery-A81D33?style=for-the-badge&logo=huawei&logoColor=white"
+  },
+  {
+    "title": "Microsoft Store",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Microsoft_Store-0078D7?style=for-the-badge&logo=microsoft&logoColor=white"
+  },
+  {
+    "title": "Amazon",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white"
+  },
+  {
+    "title": "Mercado Libre",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Mercado_Libre-FFE600?style=for-the-badge&logo=mercadolibre&logoColor=black"
+  },
+  {
+    "title": "Ebay",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Ebay-0064D2?style=for-the-badge&logo=ebay&logoColor=white"
+  },
+  {
+    "title": "Best Buy",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Best_Buy-003087?style=for-the-badge&logo=bestbuy&logoColor=white"
+  },
+  {
+    "title": "Walmart",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Walmart-0070C0?style=for-the-badge&logo=walmart&logoColor=white"
+  },
+  {
+    "title": "Target",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Target-CC0000?style=for-the-badge&logo=target&logoColor=white"
+  }
 ]
