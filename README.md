@@ -43,6 +43,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [☁️ Cloud](https://github.com/FabianHMzz/readme-components#-cloud)
    - [🏢 Companies](https://github.com/FabianHMzz/readme-components#-companies)
    - [📨 Contact](https://github.com/FabianHMzz/readme-components#-contact)
+   - [🪙 Crypto](https://github.com/FabianHMzz/readme-components#-crypto)
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
    - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
@@ -150,6 +151,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Cloud](https://img.shields.io/badge/Twilio-FF6F00?style=for-the-badge&logo=twilio&logoColor=white) | `https://img.shields.io/badge/Twilio-FF6F00?style=for-the-badge&logo=twilio&logoColor=white` |
 | ![Cloud](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | `https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white` |
 
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 🏢 Companies
@@ -196,6 +199,32 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Contact](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white` |
 | ![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white` |
 | ![Contact](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white) | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🪙 Crypto
+
+| Badge | URL |
+|-------|-----|
+| ![Crypto](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) | `https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0` |
+| ![Crypto](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A) | `https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A` |
+| ![Crypto](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white) | `https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white) | `https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) | `https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) | `https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white) | `https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white) | `https://img.shields.io/badge/Dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | `https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white) | `https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Monero-F60?style=for-the-badge&logo=monero&logoColor=white) | `https://img.shields.io/badge/Monero-F60?style=for-the-badge&logo=monero&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Nano-008DE4?style=for-the-badge&logo=nano&logoColor=white) | `https://img.shields.io/badge/Nano-008DE4?style=for-the-badge&logo=nano&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white) | `https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Stellar-000?style=for-the-badge&logo=stellar&logoColor=white) | `https://img.shields.io/badge/Stellar-000?style=for-the-badge&logo=stellar&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white) | `https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/XRP-000?style=for-the-badge&logo=xrp&logoColor=white) | `https://img.shields.io/badge/XRP-000?style=for-the-badge&logo=xrp&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white) | `https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
