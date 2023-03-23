@@ -448,6 +448,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
+### 👨‍👩‍👧‍👦 Group
+
 | Badge | URL |
 |-------|-----|
 | ![Group](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) | `https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white` |
