@@ -254,6 +254,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![DB](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white) | `https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white` |
 | ![DB](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white) | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white` |
 
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 🌮 Food
