@@ -44,6 +44,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [🏢 Companies](https://github.com/FabianHMzz/readme-components#-companies)
    - [📨 Contact](https://github.com/FabianHMzz/readme-components#-contact)
    - [🪙 Crypto](https://github.com/FabianHMzz/readme-components#-crypto)
+   - [🌐 DB](https://github.com/FabianHMzz/readme-components#-db)
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
    - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
@@ -227,6 +228,31 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Crypto](https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white) | `https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🌐 DB
+
+| Badge | URL |
+|-------|-----|
+| ![DB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) | `https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/ArangoDB-3D9C00?style=for-the-badge&logo=ArangoDB&logoColor=white) | `https://img.shields.io/badge/ArangoDB-3D9C00?style=for-the-badge&logo=ArangoDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=Apache%20Cassandra&logoColor=white) | `https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=Apache%20Cassandra&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) | `https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=Couchbase&logoColor=white) | `https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=Couchbase&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white) | `https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white` |
+| ![DB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) | `https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white) | `https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white) | `https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white` |
+| ![DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) | `https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) | `https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white) | `https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) | `https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white` |
+| ![DB](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white) | `https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) | `https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=white) | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=white` |
+| ![DB](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white) | `https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white) | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white` |
 
 ---
 
