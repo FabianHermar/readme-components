@@ -49,6 +49,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
    - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
+   - [👨‍👩‍👧‍👦 Group](https://github.com/FabianHMzz/readme-components#-group)
 
 
 </details>
@@ -444,6 +445,20 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Games](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+| Badge | URL |
+|-------|-----|
+| ![Group](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) | `https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) | `https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white) | `https://img.shields.io/badge/Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white) | `https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) | `https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white) | `https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white` |
+| ![Group](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white) | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white` |
 
 ---
 
