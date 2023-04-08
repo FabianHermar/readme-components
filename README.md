@@ -40,11 +40,16 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
   
    - [📈 Analytics](https://github.com/FabianHMzz/readme-components#-analytics)
    - [📚 Blog](https://github.com/FabianHMzz/readme-components#-blog)
+   - [☁️ Cloud](https://github.com/FabianHMzz/readme-components#-cloud)
+   - [🏢 Companies](https://github.com/FabianHMzz/readme-components#-companies)
    - [📨 Contact](https://github.com/FabianHMzz/readme-components#-contact)
+   - [🪙 Crypto](https://github.com/FabianHMzz/readme-components#-crypto)
+   - [🌐 DB](https://github.com/FabianHMzz/readme-components#-db)
    - [🌮 Food](https://github.com/FabianHMzz/readme-components#-food)
    - [❤ Funding](https://github.com/FabianHMzz/readme-components#-funding)
    - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
+   - [👨‍👩‍👧‍👦 Group](https://github.com/FabianHMzz/readme-components#-group)
 
 
 </details>
@@ -109,6 +114,72 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 
 ---
 
+### ☁️ Cloud
+| Badge | URL |
+|-------|-----|
+| ![Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | `https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | `https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | `https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) | `https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white) | `https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white) | `https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Cirrus_CI-525252?style=for-the-badge&logo=cirrus-ci&logoColor=white) | `https://img.shields.io/badge/Cirrus_CI-525252?style=for-the-badge&logo=cirrus-ci&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | `https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Cloudflare_Pages-0690FA?style=for-the-badge&logo=cloudflare&logoColor=white) | `https://img.shields.io/badge/Cloudflare_Pages-0690FA?style=for-the-badge&logo=cloudflare&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Cloudsmith-0D1117?style=for-the-badge&logo=cloudsmith&logoColor=white) | `https://img.shields.io/badge/Cloudsmith-0D1117?style=for-the-badge&logo=cloudsmith&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Codemagic-004466?style=for-the-badge&logo=codemagic&logoColor=white) | `https://img.shields.io/badge/Codemagic-004466?style=for-the-badge&logo=codemagic&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) | `https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Elastic_cloud-005571?style=for-the-badge&logo=elastic&logoColor=white) | `https://img.shields.io/badge/Elastic_cloud-005571?style=for-the-badge&logo=elastic&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | `https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black` |
+| ![Cloud](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | `https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white) | `https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white ` |
+| ![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | `https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | `https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white) | `https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/IBM_Cloud-1A458E?style=for-the-badge&logo=IBM%20Cloud&logoColor=white) | `https://img.shields.io/badge/IBM_Cloud-1A458E?style=for-the-badge&logo=IBM%20Cloud&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white) | `https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/JSDelivr-FF0000?style=for-the-badge&logo=jsdelivr&logoColor=white) | `https://img.shields.io/badge/JSDelivr-FF0000?style=for-the-badge&logo=jsdelivr&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) | `https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Mix_Cloud-3F51B5?style=for-the-badge&logo=mixcloud&logoColor=white) | `https://img.shields.io/badge/Mix_Cloud-3F51B5?style=for-the-badge&logo=mixcloud&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | `https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white) | `https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Octopus_Deploy-0088CC?style=for-the-badge&logo=octopus-deploy&logoColor=white) | `https://img.shields.io/badge/Octopus_Deploy-0088CC?style=for-the-badge&logo=octopus-deploy&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | `https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white) | `https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) | `https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) | `https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | `https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white) | `https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Twilio-FF6F00?style=for-the-badge&logo=twilio&logoColor=white) | `https://img.shields.io/badge/Twilio-FF6F00?style=for-the-badge&logo=twilio&logoColor=white` |
+| ![Cloud](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | `https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🏢 Companies
+| Badge | URL |
+|-------|-----|
+| ![Company](https://img.shields.io/badge/Adobe-ff0000?style=for-the-badge&logo=adobe&logoColor=white) | `https://img.shields.io/badge/Adobe-ff0000?style=for-the-badge&logo=adobe&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Alphabet%20Inc.-red?style=for-the-badge&logo=google&logoColor=white) | `https://img.shields.io/badge/Alphabet%20Inc.-red?style=for-the-badge&logo=google&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Amazon-ff9900?style=for-the-badge&logo=amazon&logoColor=white) | `https://img.shields.io/badge/Amazon-ff9900?style=for-the-badge&logo=amazon&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white) | `https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white` |
+| ![Company](https://img.shields.io/badge/At%26T-0078D4?style=for-the-badge&logo=at%26t&logoColor=white) | `https://img.shields.io/badge/At%26T-0078D4?style=for-the-badge&logo=at%26t&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Boxode-black.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTA4MCIgem9vbUFuZFBhbj0ibWFnbmlmeSIgdmlld0JveD0iMCAwIDgxMCA4MDkuOTk5OTkzIiBoZWlnaHQ9IjEwODAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIHZlcnNpb249IjEuMCI+PGRlZnM+PGNsaXBQYXRoIGlkPSI3NzA4MzllYzVjIj48cGF0aCBkPSJNIDE0NS43Njk1MzEgMTQ1Ljc2OTUzMSBMIDc3MC44MTY0MDYgMTQ1Ljc2OTUzMSBMIDc3MC44MTY0MDYgNzcwLjgxNjQwNiBMIDE0NS43Njk1MzEgNzcwLjgxNjQwNiBaIE0gMTQ1Ljc2OTUzMSAxNDUuNzY5NTMxICIgY2xpcC1ydWxlPSJub256ZXJvIi8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9IjBlMWM5MzdmZDIiPjxwYXRoIGQ9Ik0gMzYuNzkyOTY5IDM2Ljc5Mjk2OSBMIDc3My4yOTI5NjkgMzYuNzkyOTY5IEwgNzczLjI5Mjk2OSA3NzMuMjkyOTY5IEwgMzYuNzkyOTY5IDc3My4yOTI5NjkgWiBNIDM2Ljc5Mjk2OSAzNi43OTI5NjkgIiBjbGlwLXJ1bGU9Im5vbnplcm8iLz48L2NsaXBQYXRoPjwvZGVmcz48ZyBjbGlwLXBhdGg9InVybCgjNzcwODM5ZWM1YykiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0gMTQ1Ljc2OTUzMSAxNDUuNzY5NTMxIEwgNzcwLjgxNjQwNiAxNDUuNzY5NTMxIEwgNzcwLjgxNjQwNiA3NzAuODE2NDA2IEwgMTQ1Ljc2OTUzMSA3NzAuODE2NDA2IFogTSAxNDUuNzY5NTMxIDE0NS43Njk1MzEgIiBmaWxsLW9wYWNpdHk9IjEiIGZpbGwtcnVsZT0ibm9uemVybyIvPjwvZz48ZyBjbGlwLXBhdGg9InVybCgjMGUxYzkzN2ZkMikiPjxwYXRoIHN0cm9rZS1saW5lY2FwPSJidXR0IiB0cmFuc2Zvcm09Im1hdHJpeCgwLjc1MDEsIDAsIDAsIDAuNzUwMSwgMzYuNzkxMDA2LCAzNi43OTEwMjMpIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBkPSJNIDAuMDAyNjE2MTYgMC4wMDI1OTQxNiBMIDk4MS44NzY4NTMgMC4wMDI1OTQxNiBMIDk4MS44NzY4NTMgOTgxLjg3NjgzMSBMIDAuMDAyNjE2MTYgOTgxLjg3NjgzMSBMIDAuMDAyNjE2MTYgMC4wMDI1OTQxNiAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyNCIgc3Ryb2tlLW9wYWNpdHk9IjEiIHN0cm9rZS1taXRlcmxpbWl0PSI0Ii8+PC9nPjwvc3ZnPg==&style=for-the-badge) | `t.ly/Z884` **<-- Visit this link for get this badge.** |
+| ![Company](https://img.shields.io/badge/Cisco-1ba0e2?style=for-the-badge&logo=cisco&logoColor=white) | `https://img.shields.io/badge/Cisco-1ba0e2?style=for-the-badge&logo=cisco&logoColor=white` |
+| ![Company](https://img.shields.io/badge/IBM-006699?style=for-the-badge&logo=ibm&logoColor=white) | `https://img.shields.io/badge/IBM-006699?style=for-the-badge&logo=ibm&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Intel-0071c5?style=for-the-badge&logo=intel&logoColor=white) | `https://img.shields.io/badge/Intel-0071c5?style=for-the-badge&logo=intel&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white) | `https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | `https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white) | `https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) | `https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white` |
+| ![Company](https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white) | `https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
 ### 📨 Contact
 
 | Badge | URL |
@@ -130,6 +201,59 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Contact](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white` |
 | ![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white` |
 | ![Contact](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white) | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🪙 Crypto
+
+| Badge | URL |
+|-------|-----|
+| ![Crypto](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) | `https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0` |
+| ![Crypto](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A) | `https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=F7931A` |
+| ![Crypto](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white) | `https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white) | `https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) | `https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) | `https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white) | `https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white) | `https://img.shields.io/badge/Dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | `https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white) | `https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Monero-F60?style=for-the-badge&logo=monero&logoColor=white) | `https://img.shields.io/badge/Monero-F60?style=for-the-badge&logo=monero&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Nano-008DE4?style=for-the-badge&logo=nano&logoColor=white) | `https://img.shields.io/badge/Nano-008DE4?style=for-the-badge&logo=nano&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white) | `https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Stellar-000?style=for-the-badge&logo=stellar&logoColor=white) | `https://img.shields.io/badge/Stellar-000?style=for-the-badge&logo=stellar&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white) | `https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/XRP-000?style=for-the-badge&logo=xrp&logoColor=white) | `https://img.shields.io/badge/XRP-000?style=for-the-badge&logo=xrp&logoColor=white` |
+| ![Crypto](https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white) | `https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🌐 DB
+
+| Badge | URL |
+|-------|-----|
+| ![DB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) | `https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/ArangoDB-3D9C00?style=for-the-badge&logo=ArangoDB&logoColor=white) | `https://img.shields.io/badge/ArangoDB-3D9C00?style=for-the-badge&logo=ArangoDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=Apache%20Cassandra&logoColor=white) | `https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=Apache%20Cassandra&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) | `https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=Couchbase&logoColor=white) | `https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=Couchbase&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white) | `https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white` |
+| ![DB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) | `https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white) | `https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white) | `https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white` |
+| ![DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) | `https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white` |
+| ![DB](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) | `https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white) | `https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) | `https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white` |
+| ![DB](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white) | `https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) | `https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=white) | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=white` |
+| ![DB](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white) | `https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white` |
+| ![DB](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white) | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
@@ -319,6 +443,24 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Games](https://img.shields.io/badge/Ubisoft-252122?style=for-the-badge&logo=ubisoft&logoColor=white) | `https://img.shields.io/badge/Ubisoft-252122?style=for-the-badge&logo=ubisoft&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) | `https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 👨‍👩‍👧‍👦 Group
+
+| Badge | URL |
+|-------|-----|
+| ![Group](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) | `https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) | `https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white) | `https://img.shields.io/badge/Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white) | `https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) | `https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white) | `https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white` |
+| ![Group](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white) | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white` |
+| ![Group](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
