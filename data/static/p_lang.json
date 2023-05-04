@@ -1,5 +1,10 @@
 [
   {
+    "title": "Apache Groovy",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white"
+  },
+  {
     "title": "C",
     "badge": "",
     "url": "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
@@ -15,24 +20,19 @@
     "url": "https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
   },
   {
-    "title": "Java",
+    "title": "CoffeeScript",
     "badge": "",
-    "url": "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    "url": "https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white"
   },
   {
-    "title": "Python",
+    "title": "Clojure",
     "badge": "",
-    "url": "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    "url": "https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"
   },
   {
-    "title": "JavaScript",
+    "title": "Crystal",
     "badge": "",
-    "url": "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  },
-  {
-    "title": "HTML",
-    "badge": "",
-    "url": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    "url": "https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white"
   },
   {
     "title": "CSS",
@@ -40,39 +40,9 @@
     "url": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   },
   {
-    "title": "PHP",
+    "title": "D",
     "badge": "",
-    "url": "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-  },
-  {
-    "title": "Apache Groovy",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white"
-  },
-  {
-    "title": "Ruby",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
-  },
-  {
-    "title": "Swift",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"
-  },
-  {
-    "title": "Kotlin",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"
-  },
-  {
-    "title": "Go",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-  },
-  {
-    "title": "Rust",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+    "url": "https://img.shields.io/badge/D-00599C?style=for-the-badge&logo=d&logoColor=white"
   },
   {
     "title": "Dart",
@@ -80,24 +50,9 @@
     "url": "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
   },
   {
-    "title": "Scala",
+    "title": "Delphi",
     "badge": "",
-    "url": "https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"
-  },
-  {
-    "title": "Perl",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"
-  },
-  {
-    "title": "Lua",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"
-  },
-  {
-    "title": "Haskell",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"
+    "url": "https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"
   },
   {
     "title": "Elixir",
@@ -110,39 +65,34 @@
     "url": "https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=white"
   },
   {
-    "title": "Clojure",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"
-  },
-  {
     "title": "F#",
     "badge": "",
     "url": "https://img.shields.io/badge/F%23-5C2D91?style=for-the-badge&logo=f-sharp&logoColor=white"
   },
   {
-    "title": "CoffeeScript",
+    "title": "Go",
     "badge": "",
-    "url": "https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white"
+    "url": "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
   },
   {
-    "title": "TypeScript",
+    "title": "Haskell",
     "badge": "",
-    "url": "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+    "url": "https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"
   },
   {
-    "title": "Crystal",
+    "title": "HTML",
     "badge": "",
-    "url": "https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white"
+    "url": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   },
   {
-    "title": "D",
+    "title": "Java",
     "badge": "",
-    "url": "https://img.shields.io/badge/D-00599C?style=for-the-badge&logo=d&logoColor=white"
+    "url": "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
   },
   {
-    "title": "Delphi",
+    "title": "JavaScript",
     "badge": "",
-    "url": "https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"
+    "url": "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
   },
   {
     "title": "JSON",
@@ -155,6 +105,11 @@
     "url": "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"
   },
   {
+    "title": "Kotlin",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"
+  },
+  {
     "title": "Latex",
     "badge": "",
     "url": "https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white"
@@ -163,6 +118,16 @@
     "title": "Leaflet",
     "badge": "",
     "url": "https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"
+  },
+  {
+    "title": "Lua",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"
+  },
+  {
+    "title": "Node Red",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Node%20Red-FF0000?style=for-the-badge&logo=node-red&logoColor=white"
   },
   {
     "title": "Numpy",
@@ -175,19 +140,9 @@
     "url": "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
   },
   {
-    "title": "PyTorch",
+    "title": "PHP",
     "badge": "",
-    "url": "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
-  },
-  {
-    "title": "TensorFlow",
-    "badge": "",
-    "url": "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-  },
-  {
-    "title": "Node Red",
-    "badge": "",
-    "url": "https://img.shields.io/badge/Node%20Red-FF0000?style=for-the-badge&logo=node-red&logoColor=white"
+    "url": "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
   },
   {
     "title": "Plotly",
@@ -195,14 +150,44 @@
     "url": "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"
   },
   {
-    "title": "R",
+    "title": "Perl",
     "badge": "",
-    "url": "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+    "url": "https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"
   },
   {
     "title": "Pug",
     "badge": "",
     "url": "https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white"
+  },
+  {
+    "title": "Python",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  },
+  {
+    "title": "PyTorch",
+    "badge": "",
+    "url": "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
+  },
+  {
+    "title": "R",
+    "badge": "",
+    "url": "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+  },
+  {
+    "title": "Ruby",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
+  },
+  {
+    "title": "Rust",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+  },
+  {
+    "title": "Scala",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"
   },
   {
     "title": "Scipy",
@@ -218,6 +203,21 @@
     "title": "Solidity",
     "badge": "",
     "url": "https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"
+  },
+  {
+    "title": "Swift",
+    "badge": "",
+    "url": "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"
+  },
+  {
+    "title": "TensorFlow",
+    "badge": "",
+    "url": "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+  },
+  {
+    "title": "TypeScript",
+    "badge": "",
+    "url": "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
   },
   {
     "title": "WebAssembly",
