@@ -50,6 +50,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
    - [👨‍👩‍👧‍👦 Group](https://github.com/FabianHMzz/readme-components#-group)
+   - [💽 OS](https://github.com/FabianHMzz/readme-components#-os)
 
 
 </details>
@@ -464,6 +465,47 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Group](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 💽 OS
+
+| badge | URL |
+|-------|-----|
+| ![OS](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) | `https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | `https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white) | `https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | `https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) | `https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | `https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white) | `https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Elementary_OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white) | `https://img.shields.io/badge/Elementary_OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | `https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white` |
+| ![OS](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white) | `https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) | `https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | `https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | `https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | `https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black` |
+| ![OS](https://img.shields.io/badge/LineageOS-262577?style=for-the-badge&logo=LineageOS&logoColor=white) | `https://img.shields.io/badge/LineageOS-262577?style=for-the-badge&logo=LineageOS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) | `https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white` |
+| ![OS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white) | `https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) | `https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white` |
+| ![OS](https://img.shields.io/badge/NixOS-41439B?style=for-the-badge&logo=NixOS&logoColor=white) | `https://img.shields.io/badge/NixOS-41439B?style=for-the-badge&logo=NixOS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/OpenBSD-5E81AC?style=for-the-badge&logo=openbsd&logoColor=white) | `https://img.shields.io/badge/OpenBSD-5E81AC?style=for-the-badge&logo=openbsd&logoColor=white` |
+| ![OS](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white) | `https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white` |
+| ![OS](https://img.shields.io/badge/SuSe-0C322C?style=for-the-badge&logo=suse&logoColor=white) | `https://img.shields.io/badge/SuSe-0C322C?style=for-the-badge&logo=suse&logoColor=white` |
+| ![OS](https://img.shields.io/badge/OpenWrt-0C322C?style=for-the-badge&logo=openwrt&logoColor=white) | `https://img.shields.io/badge/OpenWrt-0C322C?style=for-the-badge&logo=openwrt&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) | `https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white) | `https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) | `https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white) | `https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | `https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Blackberry-000000?style=for-the-badge&logo=blackberry&logoColor=white) | `https://img.shields.io/badge/Blackberry-000000?style=for-the-badge&logo=blackberry&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | `https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Wear%20OS-4285F4?style=for-the-badge&logo=wearos&logoColor=white) | `https://img.shields.io/badge/Wear%20OS-4285F4?style=for-the-badge&logo=wearos&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white) | `https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white) | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white) | `https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white` |
 
 ---
 
