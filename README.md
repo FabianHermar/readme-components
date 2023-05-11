@@ -507,6 +507,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![OS](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white) | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white` |
 | ![OS](https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white) | `https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white` |
 
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 👀 Profile Views
