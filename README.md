@@ -563,6 +563,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Lang](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white` |
 | ![Lang](https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white) | `https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white` |
 
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
 ---
 
 ### 👀 Profile Views
