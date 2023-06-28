@@ -7,7 +7,6 @@
   ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
   
  ### <a href="https://github.com/FabianHMzz/readme-components/blob/main/CONTRIBUTING.md">👨‍💻 How to contributing 👨‍💻</a>
- ### <a href="https://readme-components.wiki/">👉 README Components Website 👈</a>
  #### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README_es.md">🌎 README file - Spanish version 🌎</a>
 
 
