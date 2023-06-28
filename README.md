@@ -50,6 +50,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [👨‍💻 Frameworks and Libraries](https://github.com/FabianHMzz/readme-components#-frameworks-and-libraries)
    - [🎮 Games](https://github.com/FabianHMzz/readme-components#-games)
    - [👨‍👩‍👧‍👦 Group](https://github.com/FabianHMzz/readme-components#-group)
+   - [💽 OS](https://github.com/FabianHMzz/readme-components#-os)
+   - [🖥 Programming Languages](https://github.com/FabianHMzz/readme-components#-programming-languages)
 
 
 </details>
@@ -89,6 +91,7 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Analytics](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) | `https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white` |
 | ![Analytics](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white) | `https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white` |
 | ![Analytics](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white` |
+| ![Analytics](https://img.shields.io/badge/Vercel_Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white) | `https://img.shields.io/badge/Vercel_Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white` |
 | ![Analytics](https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white) | `https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
@@ -461,6 +464,104 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Group](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white) | `https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white` |
 | ![Group](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white) | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white` |
 | ![Group](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 💽 OS
+
+| badge | URL |
+|-------|-----|
+| ![OS](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) | `https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | `https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white) | `https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | `https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) | `https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) | `https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white) | `https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Elementary_OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white) | `https://img.shields.io/badge/Elementary_OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | `https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white` |
+| ![OS](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white) | `https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) | `https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | `https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) | `https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | `https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black` |
+| ![OS](https://img.shields.io/badge/LineageOS-262577?style=for-the-badge&logo=LineageOS&logoColor=white) | `https://img.shields.io/badge/LineageOS-262577?style=for-the-badge&logo=LineageOS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) | `https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white` |
+| ![OS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white) | `https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) | `https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white` |
+| ![OS](https://img.shields.io/badge/NixOS-41439B?style=for-the-badge&logo=NixOS&logoColor=white) | `https://img.shields.io/badge/NixOS-41439B?style=for-the-badge&logo=NixOS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/OpenBSD-5E81AC?style=for-the-badge&logo=openbsd&logoColor=white) | `https://img.shields.io/badge/OpenBSD-5E81AC?style=for-the-badge&logo=openbsd&logoColor=white` |
+| ![OS](https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white) | `https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white` |
+| ![OS](https://img.shields.io/badge/SuSe-0C322C?style=for-the-badge&logo=suse&logoColor=white) | `https://img.shields.io/badge/SuSe-0C322C?style=for-the-badge&logo=suse&logoColor=white` |
+| ![OS](https://img.shields.io/badge/OpenWrt-0C322C?style=for-the-badge&logo=openwrt&logoColor=white) | `https://img.shields.io/badge/OpenWrt-0C322C?style=for-the-badge&logo=openwrt&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) | `https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white` |
+| ![OS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white) | `https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) | `https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white) | `https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | `https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Blackberry-000000?style=for-the-badge&logo=blackberry&logoColor=white) | `https://img.shields.io/badge/Blackberry-000000?style=for-the-badge&logo=blackberry&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | `https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Wear%20OS-4285F4?style=for-the-badge&logo=wearos&logoColor=white) | `https://img.shields.io/badge/Wear%20OS-4285F4?style=for-the-badge&logo=wearos&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white) | `https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white) | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white` |
+| ![OS](https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white) | `https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🖥 Programming Languages
+
+| Badge | URL |
+|-------|-----|
+| ![Lang](https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white) | `https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | `https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | `https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | `https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white) | `https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white) | `https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white) | `https://img.shields.io/badge/Crystal-000100?style=for-the-badge&logo=crystal&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | `https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/D-00599C?style=for-the-badge&logo=d&logoColor=white) | `https://img.shields.io/badge/D-00599C?style=for-the-badge&logo=d&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | `https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white) | `https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) | `https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=white) | `https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/F%23-5C2D91?style=for-the-badge&logo=f-sharp&logoColor=white) | `https://img.shields.io/badge/F%23-5C2D91?style=for-the-badge&logo=f-sharp&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | `https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | `https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | `https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | `https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | `https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black` |
+| ![Lang](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | `https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | `https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | `https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white) | `https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) | `https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | `https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Node%20Red-FF0000?style=for-the-badge&logo=node-red&logoColor=white) | `https://img.shields.io/badge/Node%20Red-FF0000?style=for-the-badge&logo=node-red&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) | `https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | `https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | `https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) | `https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) | `https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white) | `https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | `https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | `https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | `https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | `https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | `https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) | `https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Scipy-654FF0?style=for-the-badge&logo=scipy&logoColor=white) | `https://img.shields.io/badge/Scipy-654FF0?style=for-the-badge&logo=scipy&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Scratch-4B97D7?style=for-the-badge&logo=scratch&logoColor=white) | `https://img.shields.io/badge/Scratch-4B97D7?style=for-the-badge&logo=scratch&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) | `https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | `https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | `https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white` |
+| ![Lang](https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white) | `https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
