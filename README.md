@@ -6,11 +6,11 @@
   ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
   ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
   
+  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/README_Components.png" alt="README Components">
+  
  ### <a href="https://github.com/FabianHMzz/readme-components/blob/main/CONTRIBUTING.md">👨‍💻 How to contributing 👨‍💻</a>
  #### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README_es.md">🌎 README file - Spanish version 🌎</a>
 
-
-  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/Mockup%20PC.webp" alt="README Components">
  </div>
 
 # How to use
