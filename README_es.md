@@ -66,7 +66,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 
 ---
 
-# Components
+# Componentes
 
 ### 📈 Analytics
 
@@ -81,7 +81,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Analytics](https://img.shields.io/badge/Vercel_Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white) | `https://img.shields.io/badge/Vercel_Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white` |
 | ![Analytics](https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white) | `https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categorias)
 
 ---
 
