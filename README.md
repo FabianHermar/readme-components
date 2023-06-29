@@ -1,12 +1,9 @@
 <div align="center">
-  <h1>🖌 README Components 🎨</h1>
-  <h2>A awesome compilation of components for your readme.md.<br /> Badges, stats, technologies, etc., all in a only repo ⭐</h2>
-
+  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/README_Components.png" alt="README Components">
+    <p>A awesome compilation of components for your readme.md.<br /> Badges, stats, technologies, etc., all in a only repo ⭐</p>
   
   ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
   ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
-  
-  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/README_Components.png" alt="README Components">
   
  ### <a href="https://github.com/FabianHMzz/readme-components/blob/main/CONTRIBUTING.md">👨‍💻 How to contributing 👨‍💻</a>
  #### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README_es.md">🌎 README file - Spanish version 🌎</a>
