@@ -81,7 +81,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Analytics](https://img.shields.io/badge/Vercel_Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white) | `https://img.shields.io/badge/Vercel_Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white` |
 | ![Analytics](https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white) | `https://img.shields.io/badge/WakaTime-4B8BBE?style=for-the-badge&logo=wakatime&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -100,7 +100,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Blog](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white) | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white` |
 | ![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -143,7 +143,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Cloud](https://img.shields.io/badge/Twilio-FF6F00?style=for-the-badge&logo=twilio&logoColor=white) | `https://img.shields.io/badge/Twilio-FF6F00?style=for-the-badge&logo=twilio&logoColor=white` |
 | ![Cloud](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | `https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -166,7 +166,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Company](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white) | `https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white` |
 | ![Company](https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white) | `https://img.shields.io/badge/Verizon-FF0000?style=for-the-badge&logo=verizon&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -192,7 +192,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white` |
 | ![Contact](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white) | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -218,7 +218,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Crypto](https://img.shields.io/badge/XRP-000?style=for-the-badge&logo=xrp&logoColor=white) | `https://img.shields.io/badge/XRP-000?style=for-the-badge&logo=xrp&logoColor=white` |
 | ![Crypto](https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white) | `https://img.shields.io/badge/Zcash-EBB83D?style=for-the-badge&logo=zcash&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -245,7 +245,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![DB](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white) | `https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white` |
 | ![DB](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white) | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=Supabase&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -269,7 +269,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Food](https://img.shields.io/badge/Starbucks-00704A?style=for-the-badge&logo=starbucks&logoColor=white) | `https://img.shields.io/badge/Starbucks-00704A?style=for-the-badge&logo=starbucks&logoColor=white ` |
 | ![Food](https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white) | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white`
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -297,7 +297,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Funding](https://img.shields.io/badge/venmo-3D95CE?style=for-the-badge&logo=venmo&logoColor=white) | `https://img.shields.io/badge/venmo-3D95CE?style=for-the-badge&logo=venmo&logoColor=white`
 | ![Funding](https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white) | `https://img.shields.io/badge/visa-1A1F71?style=for-the-badge&logo=visa&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -410,7 +410,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![FyL](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white` |
 
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -434,7 +434,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Games](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) | `https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white` |
 | ![Games](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -452,7 +452,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Group](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white) | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white` |
 | ![Group](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -495,7 +495,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![OS](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white) | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white` |
 | ![OS](https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white) | `https://img.shields.io/badge/Zorin_OS-0C322C?style=for-the-badge&logo=zorin&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -550,7 +550,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 | ![Lang](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white` |
 | ![Lang](https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white) | `https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -560,7 +560,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 |-------|-----|
 | <img height="25px" src="https://komarev.com/ghpvc/?username=FabianHMzz&style=for-the-badge"> | `![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&color=[COLOR]&style=[STYLE]`|
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -570,7 +570,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 |-------|-----|
 | ![Github Followers](https://img.shields.io/github/followers/midudev?label=Followers&logo=GitHub&style=for-the-badge) | `![Github Followers](https://img.shields.io/github/followers/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])` |
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -580,7 +580,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 |-------|-----|
 | ![Github Stars](https://img.shields.io/github/stars/midudev?label=Stars&logo=GitHub&style=for-the-badge) | `![Github Stars](https://img.shields.io/github/stars/[USERNAME]?label=Stars&logo=[VALID_LOGO]&style=[STYLE])`|
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -590,7 +590,7 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 |-------|-----|
 | ![Twitter Followers](https://img.shields.io/twitter/follow/FabianHMz_?label=Twitter&logo=twitter&style=for-the-badge&color=blue) | `![Twitter Followers](https://img.shields.io/twitter/follow/[USERNAME]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])`|
 
-[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
 
 ---
 
@@ -634,3 +634,5 @@ Cambia el valor <code>?usermane=[HERE_YOUR_USERNAME]</code> por tu usuario de Gi
 ```diff
 ! For better compatibility with the use of colors, use hexadecimal colors.
 ```
+
+[⬆ Ir a Categorías](https://github.com/FabianHMzz/readme-components/blob/main/README_es.md#-categor%C3%ADas)
