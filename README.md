@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FabianHMzz/readme-components/main/assets/README_Components.png" alt="README Components">
+  <img src="https://github.com/FabianHermar/readme-components/blob/main/assets/README_Components.webp" alt="README Components">
     <p>A awesome compilation of components for your README. Badges, stats, technologies, etc., <br /> ALL IN A ONLY REPO!⭐</p>
   
   ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
