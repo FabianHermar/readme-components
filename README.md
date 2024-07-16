@@ -18,7 +18,7 @@ Is really easy to use, isn't it?
 Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's username.
 
 > [!NOTE]\
-> The components that your user accepts are only the dynamic components, the static ones have default design and props that you can change by following the design rules in the section of [Global Badges Style](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
+> The components that your user accepts are only the dynamic components, the static ones have default design and props that you can change by following the design rules in the section of [Universal Badges Style](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
 
 
 > [!IMPORTANT]\
