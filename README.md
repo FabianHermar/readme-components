@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/FabianHermar/readme-components/blob/main/assets/README_Components.webp" alt="README Components">
-    <p>A awesome compilation of components for your README. Badges, stats, technologies, etc., <br /> ALL IN A ONLY REPO!⭐</p>
+    <p>A awesome compilation of components for your README. Badges, stats, technologies, etc., <br /> All in one repository!⭐</p>
   
   ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
   ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
@@ -10,20 +10,25 @@
 
  </div>
 
-# How to use
-Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the usermane value for your GitHub's username.
+# 🚀 How to use
+Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the username value for your GitHub's username.
 
 Is really easy to use, isn't it?
 
 Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's username.
 
-### ⚠**Remember**⚠ 
+> [!NOTE]\
+> The components that your user accepts are only the dynamic components, the static ones have default design and props that you can change by following the design rules in the section of [Global Badges Style](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
 
-- Delete the brackets **[USERNAME]** in the URL for that it works.
-- You can use this styles in you badges: <a href="https://github.com/FabianHMzz/readme-components#styles">Universal Badges Styles</a>.
-- You can use any color for custom your badges.
-- You can use any valid logo for custom your badges.
-- If you use the **style**, **color** and **logo** remember delete the brackets and use valid style, color and logo.
+
+> [!IMPORTANT]\
+> Some important notes before to use.
+> - Delete the brackets **[USERNAME]** in the URL for that it works.
+> - You can use this styles in you badges: [Universal Badges Style](https://github.com/FabianHMzz/readme-components#styles).
+> - You can use any color for custom your badges.
+> - You can use any valid logo for custom your badges.
+> - If you use the **style**, **color** and **logo** remember delete the brackets and use valid style, color and logo.
+
 
 ## 🏷 Categories
 
@@ -46,6 +51,8 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
    - [👨‍👩‍👧‍👦 Group](https://github.com/FabianHMzz/readme-components#-group)
    - [💽 OS](https://github.com/FabianHMzz/readme-components#-os)
    - [🖥 Programming Languages](https://github.com/FabianHMzz/readme-components#-programming-languages)
+   - [🎞 Streaming](https://github.com/FabianHMzz/readme-components#-streaming)
+   - [💻 Terminal](https://github.com/FabianHMzz/readme-components#-terminal)
 
 
 </details>
@@ -556,6 +563,45 @@ Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's u
 | ![Lang](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | `https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white` |
 | ![Lang](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white` |
 | ![Lang](https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white) | `https://img.shields.io/badge/Zig-EC915C?style=for-the-badge&logo=zig&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 🎞 Streaming
+| Badges | URL |
+|--------|-----|
+| ![Streaming](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazon-prime&logoColor=black) | `https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazon-prime&logoColor=black` |
+| ![Streaming](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white) | `https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white) | `https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/Plex-EBAF00?style=for-the-badge&logo=plex&logoColor=white) | `https://img.shields.io/badge/Plex-EBAF00?style=for-the-badge&logo=plex&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/Sonarr-2596BE?style=for-the-badge&logo=sonarr&logoColor=white) | `https://img.shields.io/badge/Sonarr-2596BE?style=for-the-badge&logo=sonarr&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) | `https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) | `https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white` |
+| ![Streaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white) | `https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white` |
+
+[⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
+
+---
+
+### 💻 Terminal
+
+| Badges | URL |
+|--------|-----|
+| ![Terminal](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) | `https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whi) | `https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whi` |
+| ![Terminal](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) | `	https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white) | `https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white) | `https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white) | `https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | `https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white) | `https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white) | `https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white) | `https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white) | `https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white` |
+| ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) | `https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white` |
 
 [⬆ Go to Categories](https://github.com/FabianHMzz/readme-components#-categories)
 
