@@ -4,16 +4,25 @@
   
   ![Repo Size](https://img.shields.io/github/repo-size/FabianHMzz/readme-components?color=burlywood&logo=github&style=for-the-badge)
   ![License](https://img.shields.io/github/license/fabianhmzz/readme-components?color=burlywood&style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/fabianhermar/readme-components?color=burlywood&logo=github&style=for-the-badge)
   
  ### <a href="https://github.com/FabianHMzz/readme-components/blob/main/CONTRIBUTING.md">👨‍💻 How to contributing 👨‍💻</a>
- #### <a href="https://github.com/FabianHMzz/readme-components/blob/main/README_es.md">🌎 README file - Spanish version 🌎</a>
 
  </div>
 
 # 🚀 How to use
-Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the username value for your GitHub's username.
+1. Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the username value for your GitHub's username.
+2. Copy a URL
+3. Create a img tag in your ```.md``` file
+```md
+<img src="URL_OF_BADGES" />
+```
+or you can also opt for the markdown structure
+```md
+![Badges](URL OF BADGES)
+```
 
-Is really easy to use, isn't it?
+4. That's all. Is really easy to use, isn't it? 👀
 
 Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's username.
 
