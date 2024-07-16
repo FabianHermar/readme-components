@@ -11,7 +11,7 @@
  </div>
 
 # 🚀 How to use
-1. Only copy and paste the code of the component you want to use in your README.md file. Then, you can change the username value for your GitHub's username.
+1. Find the badges that you want to use.
 2. Copy a URL
 3. Create a img tag in your ```.md``` file
 ```md
@@ -24,10 +24,9 @@ or you can also opt for the markdown structure
 
 4. That's all. Is really easy to use, isn't it? 👀
 
-Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's username.
-
 > [!NOTE]\
 > The components that your user accepts are only the dynamic components, the static ones have default design and props that you can change by following the design rules in the section of [Universal Badges Style](https://github.com/FabianHMzz/readme-components/blob/main/README.md#styles)
+> - Change the <code>?usermane=[HERE_YOUR_USERNAME]</code> value for your GitHub's username.
 
 
 > [!IMPORTANT]\
